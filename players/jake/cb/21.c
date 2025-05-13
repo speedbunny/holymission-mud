@@ -1,0 +1,20 @@
+inherit "room/room";
+#include "/players/jake/defs.h"
+reset(arg) {
+if(arg) return;
+set_light(1);
+short_desc = "On the Chessboard";
+ long_desc = "You are standing on the chessboard.  You cannot tell how close " +
+ "you are to the edge of the board.  Looking down, you see that you are standing " +
+ "on a black square.\n";
+ dest_dir = ({
+ CB + "13.c","north",
+ CB + "14.c","northeast",
+ CB + "12.c","northwest",
+ CB + "22.c","east",
+ CB + "20.c","west",
+ CB + "29.c","south",
+ CB + "30.c","southeast",
+ CB + "28.c","southwest",
+});
+}

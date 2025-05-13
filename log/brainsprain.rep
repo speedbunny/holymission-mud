@@ -1,0 +1,50 @@
+Thu Apr 15 18:46:10 1999: players/brainsprain/goldsun/7-islands/rooms/EgenCoast
+Nae typos: "high tide mark which covered whole island."  should be "... covers the whole island."
+Thu Apr 15 18:49:06 1999: players/brainsprain/goldsun/7-islands/rooms/creta1
+Nae typos: "Far in inland" - should be "Far inland?"
+Thu Apr 15 18:56:48 1999: players/brainsprain/goldsun/7-islands/rooms/creta11
+Nae typos: hmm, i cant look at the mountain from here. *grin*
+Thu Apr 15 18:57:20 1999: players/brainsprain/goldsun/7-islands/rooms/creta11
+Nae typos: cant look at the waves, either =D
+Thu Apr 15 18:58:48 1999: players/brainsprain/goldsun/7-islands/rooms/creta8
+Nae typos: you've got an extra . at the end of island desc (l at island)
+Thu Apr 15 18:59:16 1999: players/brainsprain/goldsun/7-islands/rooms/creta5
+Nae typos: apparently the extra . is in a lot of them... *grin*
+Thu Apr 15 19:04:00 1999: players/brainsprain/goldsun/7-islands/rooms/creta6
+Nae typos: cant look at grass here
+Thu Apr 15 19:04:28 1999: players/brainsprain/goldsun/7-islands/rooms/creta6
+Nae typos: cant look at trees or bushes either
+Thu Apr 15 19:06:52 1999: players/brainsprain/goldsun/7-islands/rooms/creta4
+Nae bugs: hmmm..... "There are three obvious exits: north, east and east"
+Thu Apr 15 19:09:47 1999: players/brainsprain/goldsun/7-islands/rooms/creta10
+Nae typos: cant look at trees, sky, grass, moss, fog, branches, figures...
+Thu Apr 15 20:02:31 1999: players/brainsprain/goldsun/7-islands/rooms/genVolcano
+Sargon typos: cloud of steam RISES maybe?  But rises from where?
+Thu Apr 15 21:13:48 1999: players/brainsprain/goldsun/7-islands/rooms/creta13
+Nae typos: cant look at cape
+Thu Apr 15 21:18:42 1999: players/brainsprain/goldsun/7-islands/rooms/creta19
+Nae typos: cant look at the cliffs
+Thu Apr 15 21:30:06 1999: players/brainsprain/goldsun/7-islands/rooms/desert8
+Nae typos: when looking at worm, "gleen" should be spelled "glean"
+Thu Apr 15 21:32:22 1999: players/brainsprain/goldsun/7-islands/rooms/desert8
+Nae bugs: going east from here, i get a bug... failed to load file, desert7
+Thu Apr 15 22:33:27 1999: players/brainsprain/goldsun/7-islands/rooms/scoast1
+Sargon typos: in long desc..Sea waves break into millions drops...should be millions of drops
+Thu Apr 15 22:34:35 1999: players/brainsprain/goldsun/7-islands/rooms/scoast2
+Sargon typos: same typo here as in scoast1
+Thu Apr 15 22:36:02 1999: players/brainsprain/goldsun/7-islands/rooms/scoast3
+Sargon typos: bummer, i think all scoast rooms  have that same typo.
+Thu Apr 15 22:37:49 1999: players/brainsprain/goldsun/7-islands/rooms/scoast6
+Sargon typos: actually, not a bummer at all.  Interesting way of making desc and items in a room;)
+Fri Apr 16 00:19:36 1999: players/brainsprain/guild/hideout
+Paranoi bugs: i want to shout damned
+Fri Apr 16 02:11:20 1999: players/brainsprain/goldsun/7-islands/rooms/genRidge
+Sargon typos: A small flakes are falling down...Small flakes are falling down maybe
+Fri Apr 16 02:22:19 1999: players/brainsprain/goldsun/7-islands/rooms/genRidge
+Sargon typos: long desc.  In the inland...?
+Fri Apr 16 02:24:20 1999: players/brainsprain/goldsun/7-islands/rooms/genDesert
+Sargon typos: You are in 0 desert?
+Fri Apr 16 02:27:44 1999: players/brainsprain/goldsun/7-islands/rooms/desert4
+Sargon bugs: Failed to load file. when falling from desert4
+Fri Apr 16 02:30:29 1999: players/brainsprain/goldsun/7-islands/rooms/desert4
+Sargon bugs: when going south...same bug as above

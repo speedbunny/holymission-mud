@@ -1,0 +1,4 @@
+Tue Mar  9 04:37:01 1999: players/moonchild/cave/link
+Raindell bugs: In the mines, searching box .. on the 'something horrible crawls out of the box' result, it also gives 'Bad argument 1 to call_other(), program:sys/living.c , object : obj/monster#2725, line : 1614
+Wed Apr 14 16:57:49 1999: players/moonchild/haunter/farmbed
+Malefactor bugs: It's imposible to look in the safe, although command take all from safe works.

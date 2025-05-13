@@ -1,0 +1,73 @@
+new update, july 25 1994
+throne_room long_desc is incorrect when I come from east here...
+never use capitals in set_name of monsters! kill command won't work then.
+   (Retainers in throne room, but check all your monsters on it, please).
+pantry2 won't load... :-(
+is long_desc and spell_msgs for darkling prince ok?
+   (only \n's...)
+file for nw exit in throne_room doesn't exist (guest_room).
+ecourt2: clones skeletons only 1x per reboot! put has_cloned = 0; in
+   the reset function. Also I think you should decrease num_skel by 1
+   each time a skeletom is killed...
+   and put if(num_skels == 4)... before the for-loop.
+note skeleton sword: note that weight is related to wc (it's 4, not 3 ;).
+well3 doesn't exist (north exit from well2).
+Please be a bit careful with negative light factors. Remember that a lot of
+   guilds don't support light abilities, and torches are rather scarce.
+mole's hole crosses the well rooms (why so many empty lines in the roomcode?)
+wcourt3 typo in long_desc oather --> another
+***** New log starts here; date: july 29 1994.
+ne_tower3: there's no search function, though there's an add_action for it.
+I love the up/up/up, down/down/down messages, but you could have them both
+   in the same room, instead of 2 rooms (ne_tower1 & 2). Put it in the init
+   or something. After all, when you stand still and look, you don't see if
+   whether you're moving up or down...
+*** New log started 9-Aug-1994: ***
+nw_tower3: search routine doesn't check if has been searched already.
+   It is now possible to find unlimited rubies, keys, etc.
+   Also the bl_key doesn't load because the file doesn't exist.
+nw_tower1: priest is only cloned at first reset. because it isn't mentioned
+   in the clone_list, it's forgotten the moment replace_program is called.
+sacrificial knife: I think wc 18 is a bit high for a knife, considered
+   that the max legal wc is 20...
+iron maiden: in open function you need to check for if(opened) earlier.
+   As it is now, you can always open the thing.
+shadow_demon: I don't think it's fair to block only 2 guild powers.
+   You are selectively making it harder for certain people, which is not
+   the intention of the game. Also (not tested though) I suspect that it
+   would also block death & assassin not directed to the demon.
+LIGHT: Please think about this carefully. Some areas are so dark they will
+   almost never be acceptible to guilds without infravision (even mage;'s
+   lastlight will fail at light -3, let alone bards and fighters...).
+   Negative lightlevels should only be used under extreme magical conditions,
+   and even then not into the extreme.
+dust_demon: same remark as goes for shadow_demon.
+passage5: there can be any number of dust demons: a new one is cloned each
+   time someone (re)enters the room, even if there is one already. It's ok
+   to allow more demons, but limit the maximum number.
+passage6: if(str < 17) always fails. This means that players with str < 17
+   will be trapped in the passages forever... is this your intention?
+passage6 and bedroom do not even lie close to each other if you map the
+   area, even if not all scales would be equal. Thus it's not logical that
+   these rooms would be separated by just a singly thin wall...
+*** New log, date 15-1ug-1994 ***
+wwing2: put a 'searched = 0;' in the reset(), for now it's only searchable
+   once per reboot. Also fill in the <thing> in the search function.
+wbed1: if you're not going to use the init, add replace_program.
+wwing6/6a: again, it's nice to have different descs depending from where
+   you came, but you could put them in one room. Saves another object being
+   loaded for some hours, largely unused.
+powder: nice stuff. explosion() doesn't work properly when still in the
+   inventory of the player (no livings). Also it destructs after the first
+   living takes a hit (instead of all ppl in the room). And I think it
+   should show when the powder is burning, so ppl can run away (if they
+   fast enough).
+seeker: seek won't work ok, because you use 'ob' both as an object pointer
+   (to the target player) and as an array (all_inventory). 'Ob' can only
+   be of one type in this function.
+wgarden: typo long_desc line 1 ti --> to
+bramblebush: why do you require it to be no_clean_up? if not necessary,
+   please don't keep this room loaded for longer than necessary.
+vine: no_clean_up really needed?
+chapel: add drunk = 0; smelled = 0; to reset. will otherwise only be
+   possible once per reboot, instead of per reset.

@@ -1,0 +1,48 @@
+From: tamina
+To: uglymouth
+Subj: Ted's Area
+
+Cc: tamina
+Date: Oct 11
+
+Hiya Uglymouth !
+I think that my revision of Ted's area is complete.
+I've done it in such a way that it is completely within my /dir - to be
+found at: /players/tamina/teds/*.*
+For you to change over the files, all you need to do is change the code
+of one file -> /room/deep_forest1.c (i think), to include permanently the
+front of the castle ("/players/tamina/teds/castle.c").
+Also, i think it might be wise to either delete ted's files, or archive 
+themin some way - i don't know if that is possible - but the castle and
+cariage might cause confusion if they suddenly appear... ;-)
+
+Anyway, being in my /dir, it will be easy for me to fix any bugs that do
+appear, or change the code in any other way.
+
+Feel free to check through before you decide to implement this and mail me
+with any comments  :)
+Thanks,
+     Elemental Tamina
+
+From: uglymouth
+To: tamina
+Subj: promotion
+
+Date: Sep  7
+
+Hi,
+
+Even though I still do not have all results from Warlord and
+Airborne, I think the area is good enough to be opened. So
+I installed it north of /players/ted/path/black.c It is of now
+open for players. Of course the promotion going with it has been
+given to you too. Congrats! One request though: please remove
+the board at the draw_bridge. This is supposed to be just another
+part of the world. Not a point where another wizard's area starts
+and glory can be gained through notes on a board. If you keep
+contact with players, you will get a good impression of what they
+think of your area. Thanks.
+See you around,
+
+Viking Lord Uglymouth
+

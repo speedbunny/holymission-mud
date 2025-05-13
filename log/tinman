@@ -1,0 +1,6 @@
+players/tinman/guild/bin/choke.c line 14:Cannot #include gdef.h
+players/tinman/guild/bin/choke.c line 28:Variable _tp not declared !
+players/tinman/guild/bin/choke.c line 28:Variable _tpd not declared !
+players/tinman/guild/bin/choke.c line 28:Undefined function _cost
+players/tinman/guild/bin/choke.c line 33:Variable _tp not declared !
+players/tinman/guild/bin/choke.c line 34:Variable _tp not declared !

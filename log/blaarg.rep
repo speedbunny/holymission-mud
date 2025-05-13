@@ -1,0 +1,26 @@
+Fri Mar 13 08:21:30 1998: players/blaarg/area/rooms/entry
+Saffrin ideas: get rid of the ...  and big point, the player might not be coming fromt he portal so the as you leave wont work.
+Fri Mar 13 08:22:10 1998: players/blaarg/area/rooms/road1
+Saffrin ideas: They are going to ask you for more room desc here
+Fri Mar 13 08:22:48 1998: players/blaarg/area/rooms/road1
+Saffrin ideas: also, they will make you remove allt he /n in the long_desc
+Fri Mar 13 08:24:06 1998: players/blaarg/area/rooms/road8
+Saffrin ideas: All these road rooms would need what I mentioned before
+Fri Mar 13 08:25:36 1998: players/blaarg/area/rooms/tendoa01
+Saffrin bugs: I came north from road8 but cannot go south back to it
+Fri Mar 13 08:26:14 1998: players/blaarg/area/rooms/tendoa01
+Saffrin ideas: Get rid of the capitals on the directions. Example) West to west
+Fri Mar 13 08:28:26 1998: players/blaarg/area/rooms/tendoa11
+Saffrin bugs: room to south tendoa12 failed to load
+Fri Mar 13 08:29:44 1998: players/blaarg/area/rooms/tendob05
+Saffrin bugs: again south room didnt load
+Fri Mar 13 08:36:02 1998: players/blaarg/area/rooms/spshop
+Saffrin ideas: Got to get rid of the question... What once....try instead: This former special items shop is now an abandoned wreck.
+Fri Mar 13 08:38:18 1998: players/blaarg/area/rooms/cshrine
+Saffrin ideas: You have all these signs....why not add_action a read to the room so we can read the sign....kinda a reflex
+Sat Apr 25 21:20:53 1998: players/blaarg/area/rooms/road1
+Mangla typos: capitalize the first letter in a sentence and remove the \n form the descs.
+Sat Apr 25 21:24:43 1998: players/blaarg/area/rooms/road1
+Mangla typos: your short descs do not need periods or \n's
+Sat Apr 25 21:32:07 1998: players/blaarg/area/rooms/road5
+Mangla ideas: how about working on these descriptions some so they are more than 2 shortlines.

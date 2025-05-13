@@ -1,0 +1,621 @@
+PO: sys/player#1781, TP: huge orc, TO: artsapat, ENV: room/orc_valley/valley11
+PO: sys/player#3097, TP: azran, TO: azran, ENV: players/sauron/guild/room
+PO: sys/player#9976, TP: troll, TO: figura, ENV: players/moonchild/trollslayer/troll2
+PO: sys/player#16366, TP: danahra, TO: strider, ENV: players/whisky/quest/room/rock
+PO: sys/player#18165, TP: strider, TO: strider, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#2672, TP: Fluffy the dragon, TO: guest, ENV: room/vill_road1b
+PO: sys/player#2672, TP: Fluffy the dragon, TO: guest, ENV: room/vill_road1b
+PO: sys/player#2672, TP: Fluffy the dragon, TO: guest, ENV: room/vill_road1b
+PO: sys/player#18366, TP: cyhyraeth, TO: mcloud, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#557, TP: large orc, TO: rafika, ENV: room/orc_valley/valley08
+PO: sys/player#1941, TP: troll, TO: wilhelm, ENV: players/moonchild/trollslayer/troll2
+PO: sys/player#20050, TP: evil dark lord, TO: cingulus, ENV: players/tuppence/fortress/room/top10
+PO: sys/player#20492, TP: rex, TO: artsapat, ENV: players/warlord/stone/stone19
+PO: sys/player#21269, TP: clemens, TO: artsapat, ENV: players/herp/room/pit
+PO: sys/player#21262, TP: troll King, TO: rice, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#21262, TP: troll, TO: rice, ENV: players/moonchild/trollslayer/troll2
+PO: sys/player#21262, TP: troll King, TO: rice, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#21262, TP: troll King, TO: rice, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#21262, TP: troll, TO: rice, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#21232, TP: Sacrificial Priest, TO: cingulus, ENV: players/tamina/castle/rooms/nw_tower1
+PO: sys/player#217, TP: Morgan le Fey, TO: cingulus, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#250, TP: lepracaun, TO: artsapat, ENV: players/saffrin/area/fairy/wood/wood67
+PO: sys/player#1299, TP: giant, TO: artsapat, ENV: room/giant_conf
+PO: sys/player#2044, TP: cyhyraeth, TO: chunk, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#6674, TP: troll, TO: rice, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#9099, TP: Mage-Master Cherlindrea, TO: figura, ENV: players/saffrin/area/tower/room/cherwork
+PO: sys/player#11419, TP: paco, TO: paco, ENV: players/emerald/island/room/i19
+PO: sys/player#10624, TP: ten, TO: ten, ENV: room/forest1
+PO: sys/player#12598, TP: paco, TO: paco, ENV: room/narr_alley
+PO: sys/player#19562, TP: garschmirak, TO: cingulus, ENV: players/emerald/island/room/i18
+PO: sys/player#21716, TP: orc chief shaman, TO: cingulus, ENV: players/emerald/island/room/caves/room/ci30
+PO: sys/player#1956, TP: osric, TO: alexg, ENV: players/saffrin/area/hamlet/room/pass3
+PO: sys/player#11388, TP: goblin king, TO: mcloud, ENV: players/emerald/perilous/forest/rmO
+PO: sys/player#17363, TP: orc chief shaman, TO: cingulus, ENV: players/emerald/island/room/caves/room/ci11
+PO: sys/player#15388, TP: William the Conqueror, TO: paco, ENV: players/gareth/guild/room
+PO: sys/player#15388, TP: William the Conqueror, TO: paco, ENV: players/gareth/guild/room
+PO: sys/player#21081, TP: nun, TO: taco, ENV: players/whisky/guild/room/c7
+PO: sys/player#21081, TP: troll King, TO: taco, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#21081, TP: troll King, TO: taco, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#1256, TP: paperboy, TO: rievax, ENV: room/vill_green
+PO: sys/player#5703, TP: seelie, TO: mcloud, ENV: players/saffrin/area/aine/room/for18
+PO: sys/player#7890, TP: grazzt, TO: leeloo, ENV: players/sherman/hills/cave4
+PO: sys/player#13178, TP: huge orc, TO: jumper, ENV: room/orc_valley/valley12
+PO: sys/player#7675, TP: rat, TO: johnny, ENV: room/sub/after_trap
+PO: sys/player#22825, TP: large orc, TO: hunzibrunzi, ENV: room/orc_valley/valley05
+PO: sys/player#22876, TP: clemens, TO: viki, ENV: players/herp/room/pit
+PO: sys/player#206, TP: paperboy, TO: borz, ENV: room/vill_green
+PO: sys/player#375, TP: clemens, TO: fuszka, ENV: players/herp/room/pit
+PO: sys/player#2206, TP: paperboy, TO: spider, ENV: room/vill_green
+PO: sys/player#2330, TP: orc chieftain, TO: cingulus, ENV: players/emerald/island/room/caves/room/ci12
+PO: sys/player#10752, TP: troll, TO: flaire, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#12720, TP: narguhl, TO: ten, ENV: players/wilbie/graveyard/doom2
+PO: sys/player#14875, TP: baal-rog, TO: cingulus, ENV: players/airborne/temple/levelc/balrog
+PO: sys/player#7164, TP: troll, TO: rapist, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#7164, TP: wolf, TO: rapist, ENV: room/plane1
+PO: sys/player#219, TP: dagobert, TO: lfesavr, ENV: players/emerald/seaworld/room/sw1
+PO: sys/player#219, TP: dagobert, TO: lfesavr, ENV: players/emerald/seaworld/room/sw1
+PO: sys/player#3255, TP: ogre, TO: cruntsch, ENV: room/orc_valley/valley07
+PO: sys/player#9628, TP: Morgan le Fey, TO: ten, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#2633, TP: violens, TO: johnny, ENV: players/kelly/rooms/violens
+PO: sys/player#2810, TP: harry, TO: johnny, ENV: room/vill_road2
+PO: sys/player#2909, TP: orc shaman, TO: johnny, ENV: room/orc_valley/valley12
+PO: sys/player#4295, TP: golem-padrone, TO: johnny, ENV: players/padrone/outside/finish_quest
+PO: sys/player#2767, TP: garschmirak, TO: katallask, ENV: players/emerald/island/room/i18
+PO: sys/player#2767, TP: garschmirak, TO: katallask, ENV: players/emerald/island/room/i18
+PO: sys/player#8340, TP: paperboy, TO: ricj, ENV: room/vill_green
+PO: sys/player#14959, TP: Morgan le Fey, TO: cingulus, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#14959, TP: huge orc, TO: cingulus, ENV: room/orc_valley/valley11
+PO: sys/player#4797, TP: sypher, TO: fritz, ENV: room/jetty
+PO: sys/player#6607, TP: smorlok, TO: sup, ENV: room/vill_green
+PO: sys/player#13823, TP: priest, TO: belsambar, ENV: players/herp/room/father
+PO: sys/player#14880, TP: garschmirak, TO: lifgivr, ENV: players/emerald/island/room/i18
+PO: sys/player#935, TP: shade, TO: shade, ENV: players/sauron/guild/room
+PO: sys/player#935, TP: shade, TO: shade, ENV: players/sauron/guild/room
+PO: sys/player#4660, TP: troll, TO: gagyi, ENV: players/moonchild/trollslayer/troll2
+PO: sys/player#2580, TP: wasp, TO: cic, ENV: players/figleaf/link/link5
+PO: sys/player#5512, TP: troll, TO: rice, ENV: players/moonchild/trollslayer/troll2
+PO: sys/player#24353, TP: troll King, TO: cic, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#24353, TP: gathan, TO: cic, ENV: players/tuppence/fortress/room/dun3
+PO: sys/player#26360, TP: ogre, TO: jumper, ENV: room/orc_valley/valley06
+PO: sys/player#26437, TP: huge orc, TO: jumper, ENV: room/orc_valley/valley07
+PO: sys/player#28078, TP: assassin, TO: assassin, ENV: players/patience/ezo/tearoom
+PO: sys/player#28960, TP: wolf, TO: shodown, ENV: room/plane1
+PO: sys/player#534, TP: paperboy, TO: striker, ENV: room/vill_green
+PO: sys/player#1950, TP: herp, TO: thumper, ENV: room/vill_green
+PO: sys/player#489, TP: troll King, TO: shodown, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#14302, TP: Monk Wuki, TO: shodown, ENV: players/whisky/meadow/room/m6
+PO: sys/player#14302, TP: Monk Wuki, TO: shodown, ENV: players/whisky/meadow/room/m6
+PO: sys/player#13638, TP: sheankala, TO: chers, ENV: players/wilbie/graveyard/doom11
+PO: sys/player#239, TP: rat, TO: shodown, ENV: players/tuppence/fortress/room/plroom
+PO: sys/player#239, TP: rat, TO: shodown, ENV: players/tuppence/fortress/room/plroom
+PO: sys/player#3896, TP: sheep, TO: guest, ENV: players/whisky/garden/room/garden4
+PO: sys/player#4087, TP: shiriff, TO: guest, ENV: players/colossus/mearth/shire/sheriff1
+PO: sys/player#3535, TP: cyhyraeth, TO: luuke, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#27951, TP: orc shaman, TO: cruntsch, ENV: room/orc_valley/valley12
+PO: sys/player#29088, TP: monk, TO: luuke, ENV: players/whisky/guild/room/challenge
+PO: sys/player#30491, TP: katallask, TO: katallask, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#29088, TP: huge orc, TO: luuke, ENV: room/orc_valley/valley09
+PO: sys/player#29088, TP: huge orc, TO: luuke, ENV: room/orc_valley/valley09
+PO: sys/player#32149, TP: troll, TO: luuke, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#32149, TP: troll, TO: luuke, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#9469, TP: seelie, TO: shakes, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#9617, TP: dryad, TO: macros, ENV: players/saffrin/area/aine/room/for14
+PO: sys/player#9747, TP: paperboy, TO: skids, ENV: room/vill_green
+PO: sys/player#9747, TP: paperboy, TO: skids, ENV: room/vill_green
+PO: sys/player#9747, TP: peasant, TO: skids, ENV: players/brainsprain/bis/rooms/tr-16
+PO: sys/player#9747, TP: peasant, TO: skids, ENV: players/brainsprain/bis/rooms/tr-16
+PO: sys/player#9747, TP: peasant, TO: skids, ENV: players/brainsprain/bis/rooms/tr-16
+PO: sys/player#15215, TP: yellow goblin, TO: tootie, ENV: room/forest7
+PO: sys/player#253, TP: Mage-Master Cherlindrea, TO: luuke, ENV: players/saffrin/area/tower/room/cherwork
+PO: sys/player#6306, TP: yellow goblin, TO: alonzo, ENV: room/forest8
+PO: sys/player#6335, TP: seelie, TO: gerardo, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#7012, TP: seelie, TO: gerardo, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#6306, TP: seelie, TO: alonzo, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#7562, TP: cyhyraeth, TO: gerardo, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#9089, TP: A prison guard, TO: gerardo, ENV: players/pretzel/area/rooms/hall2
+PO: sys/player#9340, TP: troll, TO: gerardo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#12356, TP: troll, TO: gerardo, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#12384, TP: troll, TO: gerardo, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#12384, TP: troll, TO: gerardo, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#12384, TP: rat, TO: gerardo, ENV: players/apollo/thieves/rooms/fighter
+PO: sys/player#27152, TP: bull, TO: gerardo, ENV: players/emerald/lakmir/pasture
+PO: sys/player#30192, TP: rudi, TO: gerardo, ENV: players/whisky/meadow/room/m1
+PO: sys/player#749, TP: cyhyraeth, TO: assassin, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#1029, TP: yellow goblin, TO: alonzo, ENV: room/forest8
+PO: sys/player#7008, TP: taliesin, TO: lifgivr, ENV: players/herp/games/4win
+PO: sys/player#10014, TP: rudi, TO: gerardo, ENV: players/emerald/seaworld/room/path_end
+PO: sys/player#10051, TP: rudi, TO: gerardo, ENV: players/emerald/seaworld/room/rock
+PO: sys/player#10319, TP: NO TP, TO: gerardo, ENV: players/emerald/seaworld/room/path_end
+PO: sys/player#10420, TP: cyhyraeth, TO: gerardo, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#10487, TP: NO TP, TO: gerardo, ENV: room/forest9
+PO: sys/player#12950, TP: NO TP, TO: hollodri, ENV: players/herp/abbey/e10
+PO: sys/player#15397, TP: NO TP, TO: gerardo, ENV: players/whisky/garden/room/path2
+PO: sys/player#16941, TP: clemens, TO: gerardo, ENV: players/herp/room/pit
+PO: sys/player#22289, TP: large orc, TO: gagyi, ENV: room/orc_valley/valley05
+PO: sys/player#25499, TP: leeloo, TO: gagyi, ENV: room/orc_valley/valley12
+PO: sys/player#26540, TP: rat, TO: khaen, ENV: players/apollo/thieves/rooms/sewer01
+PO: sys/player#29760, TP: huge orc, TO: macros, ENV: room/orc_valley/valley11
+PO: sys/player#29319, TP: NO TP, TO: gerardo, ENV: room/orc_valley/valley10
+PO: sys/player#30655, TP: guard, TO: khaen, ENV: room/bank
+PO: sys/player#232, TP: smorlok, TO: thumper, ENV: players/emerald/perilous/forest/rmR3
+PO: sys/player#11342, TP: garschmirak, TO: lifgivr, ENV: players/emerald/island/room/i18
+PO: sys/player#14050, TP: clemens, TO: guest, ENV: players/herp/room/pit
+PO: sys/player#4104, TP: orc, TO: guest, ENV: room/orc_valley/orc_vall
+PO: sys/player#7144, TP: NO TP, TO: escalus, ENV: players/wilbie/graveyard/doom11
+PO: sys/player#10847, TP: NO TP, TO: escalus, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#11110, TP: ogre, TO: alonzo, ENV: room/orc_valley/valley06
+PO: sys/player#11110, TP: ogre, TO: alonzo, ENV: room/orc_valley/valley07
+PO: sys/player#11110, TP: ogre, TO: alonzo, ENV: room/orc_valley/valley06
+PO: sys/player#11110, TP: ogre, TO: alonzo, ENV: room/orc_valley/valley07
+PO: sys/player#16725, TP: paperboy, TO: twart, ENV: room/vill_green
+PO: sys/player#18504, TP: seelie, TO: defel, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#6753, TP: troll, TO: ermox, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#8302, TP: NO TP, TO: hollodri, ENV: players/herp/abbey/e13
+PO: sys/player#8995, TP: mondfighter, TO: mondfighter, ENV: players/sauron/guild/room
+PO: sys/player#9199, TP: mondfighter, TO: mondfighter, ENV: players/sauron/guild/room
+PO: sys/player#9205, TP: mondfighter, TO: mondfighter, ENV: players/sauron/guild/room
+PO: sys/player#11849, TP: Sacrificial Priest, TO: macros, ENV: players/tamina/castle/rooms/nw_tower1
+PO: sys/player#8215, TP: Morgan le Fey, TO: dragons, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#3359, TP: grazzt, TO: chers, ENV: players/sherman/hills/cave4
+PO: sys/player#9863, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#17186, TP: cyhyraeth, TO: tassadar, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#18313, TP: chunk, TO: katallask, ENV: players/saffrin/area/hamlet/room/throne12
+PO: sys/player#15555, TP: Hamlet, TO: chunk, ENV: players/saffrin/area/hamlet/room/sideroom
+PO: sys/player#15555, TP: Hamlet, TO: chunk, ENV: players/saffrin/area/hamlet/room/sideroom
+PO: sys/player#8925, TP: troll, TO: tassadar, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#12428, TP: alonzo, TO: alonzo, ENV: room/vill_road1b
+PO: sys/player#12428, TP: misthena, TO: alonzo, ENV: players/emerald/perilous/forest/rmR3
+PO: sys/player#225, TP: scarlet dragon, TO: leeloo, ENV: players/emerald/dungeon/rooms/c22
+PO: sys/player#6782, TP: hag, TO: defel, ENV: players/emerald/good/evil/evil6
+PO: sys/player#6888, TP: smorlok, TO: luuke, ENV: players/saffrin/area/pk/room/h10
+PO: sys/player#6122, TP: rudi, TO: pitzi, ENV: players/emerald/seaworld/room/sea_way2
+PO: sys/player#7286, TP: danahra, TO: sypher, ENV: players/whisky/quest/room/rock
+PO: sys/player#10571, TP: blackmajik, TO: aoife, ENV: players/tuppence/fortress/room/top6
+PO: sys/player#13603, TP: green knight, TO: guest, ENV: players/emerald/perilous/path/green
+PO: sys/player#3953, TP: priest, TO: guest, ENV: players/herp/room/father
+PO: sys/player#10589, TP: ogre, TO: cic, ENV: room/orc_valley/valley08
+PO: sys/player#10322, TP: NO TP, TO: escalus, ENV: players/emerald/island/room/caves/room/ci11
+PO: sys/player#8985, TP: orc, TO: mauser, ENV: room/orc_valley/valley03
+PO: sys/player#13189, TP: bat, TO: noghri, ENV: players/apollo/thieves/rooms/sewer01
+PO: sys/player#15510, TP: rat, TO: noghri, ENV: players/tuppence/fortress/room/plroom
+PO: sys/player#15510, TP: violens, TO: noghri, ENV: room/yard
+PO: sys/player#15510, TP: white stag, TO: noghri, ENV: players/emerald/good/light/light18
+PO: sys/player#5103, TP: violens, TO: zeddicus, ENV: players/kelly/rooms/violens
+PO: sys/player#5651, TP: hades, TO: hades, ENV: players/sauron/guild/room
+PO: sys/player#9319, TP: huge orc, TO: hollodaro, ENV: room/orc_valley/valley10
+PO: sys/player#385, TP: moszat, TO: moszat, ENV: room/vill_green
+PO: sys/player#10700, TP: ogre, TO: evil, ENV: room/orc_valley/valley08
+PO: sys/player#564, TP: Butch, TO: thumper, ENV: players/pretzel/area/rooms/butchroom
+PO: sys/player#3010, TP: gardener, TO: bytor, ENV: players/emerald/garden/gard_ent
+PO: sys/player#3010, TP: gargamel, TO: bytor, ENV: players/figleaf/smurf/smurf3
+PO: sys/player#8558, TP: huge orc, TO: chantilly, ENV: room/orc_valley/valley06
+PO: sys/player#3364, TP: cingulus, TO: cingulus, ENV: players/emerald/island/room/caves/room/ci11
+PO: sys/player#4047, TP: watersnake, TO: cingulus, ENV: players/emerald/island/room/caves/room/c9
+PO: sys/player#8195, TP: narguhl, TO: herron, ENV: players/wilbie/graveyard/doom4
+PO: sys/player#8394, TP: large orc, TO: doctor, ENV: room/orc_valley/valley08
+PO: sys/player#8394, TP: red knight, TO: doctor, ENV: players/emerald/perilous/path/red
+PO: sys/player#14090, TP: NO TP, TO: luuke, ENV: room/south/lair
+PO: sys/player#15095, TP: sheankala, TO: strider, ENV: players/wilbie/graveyard/doom11
+PO: sys/player#406, TP: clemens, TO: sherry, ENV: players/herp/room/pit
+PO: sys/player#7023, TP: hobbe, TO: korvex, ENV: players/whisky/mill_quest/path2
+PO: sys/player#1751, TP: seelie, TO: lamaho, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#3175, TP: ogre, TO: pause, ENV: room/orc_valley/valley08
+PO: sys/player#3047, TP: bruce lee, TO: nassa, ENV: players/whisky/guild/room/c8
+PO: sys/testp#9573, TP: izekiel, TO: ezekiel, ENV: players/izekiel/workroom
+PO: sys/player#12245, TP: smorlok, TO: blackrose, ENV: players/wilbie/graveyard/med-room
+PO: sys/player#2964, TP: coldrik, TO: cingulus, ENV: players/meecham/tower/hole/cols_room
+PO: sys/player#3924, TP: cyhyraeth, TO: lamaho, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#7295, TP: cic, TO: noghri, ENV: room/vill_green
+PO: sys/player#7295, TP: priest, TO: noghri, ENV: players/herp/room/father
+PO: sys/player#7243, TP: large orc, TO: druese, ENV: room/orc_valley/valley12
+PO: sys/player#7250, TP: priest, TO: druese, ENV: players/herp/room/father
+PO: sys/player#7250, TP: priest, TO: druese, ENV: players/herp/room/father
+PO: sys/player#7250, TP: priest, TO: druese, ENV: players/herp/room/father
+PO: sys/player#14147, TP: guildenstern, TO: noghri, ENV: players/saffrin/area/hamlet/room/pass15
+PO: sys/player#15712, TP: policewoman, TO: noghri, ENV: players/kelly/rooms/vill/guardroom
+PO: sys/player#13924, TP: policewoman, TO: star, ENV: players/kelly/rooms/vill/guardroom
+PO: sys/player#2695, TP: surgeon, TO: noghri, ENV: players/padrone/inside/surgeons_room
+PO: sys/player#4525, TP: citizen, TO: noghri, ENV: players/emerald/town/t6
+PO: sys/player#6493, TP: gardener, TO: star, ENV: players/kelly/rooms/violens
+PO: sys/player#2212, TP: blue dragon, TO: doctor, ENV: players/emerald/island/room/i5
+PO: sys/player#8802, TP: witch, TO: enkil, ENV: players/whisky/garden/room/roof
+PO: sys/player#8900, TP: Purple dinosaur, TO: enkil, ENV: players/emerald/country/well
+PO: sys/player#939, TP: cingulus, TO: cingulus, ENV: players/emerald/island/room/caves/room/ci11
+PO: sys/player#3982, TP: wasps, TO: tech, ENV: players/whisky/tree/room/t29
+PO: sys/player#4654, TP: wasp, TO: tech, ENV: players/figleaf/link/link5
+PO: sys/player#5447, TP: large orc, TO: blacktrajik, ENV: room/orc_valley/valley08
+PO: sys/player#1720, TP: lieutenant, TO: star, ENV: players/kelly/rooms/vill/grocery
+PO: sys/player#9067, TP: yellow goblin, TO: deep, ENV: players/padrone/outside/path1
+PO: sys/player#5511, TP: shodan, TO: shodan, ENV: room/hump
+PO: sys/player#7146, TP: huge orc, TO: lukass, ENV: room/orc_valley/valley11
+PO: sys/player#8410, TP: krylon, TO: krylon, ENV: players/sauron/guild/room
+PO: sys/player#4856, TP: paperboy, TO: slug, ENV: room/vill_green
+PO: sys/player#5377, TP: seelie, TO: executoor, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#879, TP: orc, TO: lukass, ENV: room/orc_valley/fortress
+PO: sys/player#879, TP: kapak draconian, TO: lukass, ENV: players/emerald/forest/f3-0
+PO: sys/player#879, TP: coldrikian demon, TO: lukass, ENV: players/meecham/tower/entrance
+PO: sys/player#4609, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#4609, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#4609, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#4609, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#5378, TP: wasp, TO: lis, ENV: players/figleaf/link/link5
+PO: sys/player#5318, TP: pheasant, TO: lukass, ENV: players/whisky/tree/room/t4
+PO: sys/player#7178, TP: noghri, TO: ermox, ENV: room/vill_green
+PO: sys/player#6304, TP: narguhl, TO: noghri, ENV: players/wilbie/graveyard/doom7
+PO: sys/player#13640, TP: cobra, TO: artsapat, ENV: players/warlord/rooms/fut8
+PO: sys/player#240, TP: Bounca, TO: cingulus, ENV: players/pretzel/area/rooms/bouncaroom
+PO: sys/player#3176, TP: taiga, TO: taiga, ENV: room/orc_valley/valley07
+PO: sys/player#5837, TP: Fluffy the dragon, TO: hogarius, ENV: room/vill_road2
+PO: sys/player#6939, TP: doolotz, TO: leeloo, ENV: room/vill_green
+PO: sys/player#6949, TP: doolotz, TO: mcloud, ENV: room/vill_green
+PO: sys/player#6897, TP: doolotz, TO: figura, ENV: room/vill_green
+PO: sys/player#7697, TP: sargon, TO: doolotz, ENV: room/vill_green
+PO: sys/player#3024, TP: treat, TO: doolotz, ENV: room/vill_green
+PO: sys/player#3340, TP: doolotz, TO: noghri, ENV: room/vill_green
+PO: sys/player#6355, TP: clemens, TO: chantilly, ENV: players/herp/room/pit
+PO: sys/player#9684, TP: priest, TO: tomten, ENV: players/herp/room/father
+PO: sys/player#9684, TP: paperboy, TO: tomten, ENV: room/vill_green
+PO: sys/player#9684, TP: yellow goblin, TO: tomten, ENV: room/forest10
+PO: sys/player#10764, TP: cyhyraeth, TO: star, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#961, TP: huge orc, TO: cic, ENV: room/orc_valley/valley14
+PO: sys/player#6167, TP: yellow goblin, TO: tech, ENV: room/forest5
+PO: sys/player#200, TP: artsapat, TO: artsapat, ENV: players/emerald/island/room/caves/room/ci11
+PO: sys/player#1342, TP: cingulus, TO: cingulus, ENV: players/emerald/island/room/caves/room/ci11
+PO: sys/player#14510, TP: orc, TO: yep, ENV: room/orc_valley/valley04
+PO: sys/player#1524, TP: large orc, TO: tibboh, ENV: room/orc_valley/valley05
+PO: sys/player#3931, TP: ogre, TO: doctor, ENV: room/orc_valley/valley07
+PO: sys/player#7047, TP: clemens, TO: enkil, ENV: players/herp/room/pit
+PO: sys/player#4900, TP: paperboy, TO: ladydragon, ENV: room/vill_green
+PO: sys/player#265, TP: wasp, TO: barna, ENV: players/figleaf/link/link5
+PO: sys/player#8035, TP: priest, TO: ravinar, ENV: players/herp/room/father
+PO: sys/player#3250, TP: figura, TO: vajaskifli, ENV: room/eastroad5
+PO: sys/player#7931, TP: giant, TO: saddam, ENV: room/giant_conf
+PO: sys/player#10067, TP: paperboy, TO: exar, ENV: room/vill_green
+PO: sys/player#1892, TP: seelie, TO: cykman, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#1135, TP: vivekananda, TO: doctor, ENV: room/orc_valley/valley10
+PO: sys/player#1838, TP: red knight, TO: szormok, ENV: players/emerald/perilous/path/red
+PO: sys/player#7106, TP: Mage-Master Cherlindrea, TO: sytar, ENV: players/saffrin/area/tower/room/cherwork
+PO: sys/player#3185, TP: paperboy, TO: jokey, ENV: room/vill_green
+PO: sys/testp#3529, TP: The evil Lord Houron , TO: icelady, ENV: players/thumper/workroom
+PO: sys/testp#3529, TP: The evil Lord Houron , TO: icelady, ENV: players/thumper/workroom
+PO: sys/player#5798, TP: star, TO: cic, ENV: players/tuppence/fortress/room/hall6
+PO: sys/testp#1180, TP: The evil Lord Houron, TO: icelady, ENV: players/thumper/workroom
+PO: sys/testp#1180, TP: The evil Lord Houron, TO: icelady, ENV: players/thumper/workroom
+PO: sys/player#507, TP: chipmunk, TO: gish, ENV: players/airborne/new/newbie11
+PO: sys/player#2517, TP: troll, TO: lech, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#3527, TP: seelie, TO: yggdrasil, ENV: players/saffrin/area/aine/room/for2
+PO: sys/testp#2395, TP: zathras, TO: zathras, ENV: players/patience/ezo/conference
+PO: sys/testp#1930, TP: zathras, TO: zathras, ENV: players/padrone/walker/castle_yard
+PO: sys/player#700, TP: swordfish, TO: moszat, ENV: players/emerald/seaworld/room/sw22
+PO: sys/player#5057, TP: garschmirak, TO: doolotz, ENV: players/emerald/island/room/i18
+PO: sys/player#15499, TP: Mamma, TO: skinner, ENV: players/pretzel/area/rooms/mammaroom
+PO: sys/player#1819, TP: fat dragon, TO: ghost, ENV: players/whisky/garden/room/dragon_room
+PO: sys/player#7913, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#7913, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#5494, TP: coldrikian demon, TO: oxin, ENV: players/meecham/tower/entrance
+PO: sys/player#196, TP: yellow goblin, TO: vadkan, ENV: room/slope
+PO: sys/player#2547, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#3650, TP: wolf, TO: guest, ENV: room/hump
+PO: sys/player#5486, TP: paperboy, TO: kiruj, ENV: room/vill_green
+PO: sys/testp#8158, TP: ogre, TO: gryphon, ENV: room/orc_valley/valley05
+PO: sys/testp#8158, TP: large orc, TO: gryphon, ENV: room/orc_valley/valley05
+PO: sys/testp#8158, TP: ogre, TO: gryphon, ENV: room/orc_valley/valley05
+PO: sys/player#440, TP: paperboy, TO: squall, ENV: room/vill_green
+PO: sys/player#809, TP: ogre, TO: rafika, ENV: room/orc_valley/valley07
+PO: sys/player#7630, TP: A prison guard, TO: chantilly, ENV: players/pretzel/area/rooms/hall4
+PO: sys/player#8131, TP: clemens, TO: chantilly, ENV: players/herp/room/pit
+PO: sys/player#4972, TP: yellow goblin, TO: lucia, ENV: players/figleaf/smurf/path1
+PO: sys/player#3080, TP: seelie, TO: sinbound, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#3104, TP: seelie, TO: sinbound, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#3180, TP: sinbound, TO: sinbound, ENV: players/sauron/guild/room
+PO: sys/player#3213, TP: wolf, TO: sinbound, ENV: players/whisky/garden/room/garden4
+PO: sys/player#3346, TP: priest, TO: sinbound, ENV: players/herp/room/father
+PO: sys/player#3399, TP: wasp, TO: sinbound, ENV: players/figleaf/link/link5
+PO: sys/player#3931, TP: doolotz, TO: doolotz, ENV: players/emerald/castle/rooms/tr
+PO: sys/player#1229, TP: troll, TO: kripptik, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#1229, TP: gigantic eagle, TO: kripptik, ENV: players/patience/ezo/coast/rf4
+PO: sys/player#2881, TP: sentinel, TO: kripptik, ENV: players/tamina/castle/rooms/court3
+PO: sys/player#2860, TP: Monk Wuki, TO: tech, ENV: players/whisky/meadow/room/m5
+PO: sys/player#2930, TP: bull, TO: tech, ENV: players/whisky/meadow/room/m5
+PO: sys/player#644, TP: noghri, TO: leeloo, ENV: room/vill_green
+PO: sys/player#644, TP: noghri, TO: leeloo, ENV: room/vill_green
+PO: sys/player#5999, TP: orc shaman, TO: creampuff, ENV: room/orc_valley/valley12
+PO: sys/player#6160, TP: Grizzly Bear, TO: creampuff, ENV: players/apollo/guild/rooms/open18
+PO: sys/player#6160, TP: Grizzly Bear, TO: creampuff, ENV: players/apollo/guild/rooms/open18
+PO: sys/player#6172, TP: Grizzly Bear, TO: lllllisa, ENV: players/apollo/guild/rooms/open18
+PO: sys/player#5231, TP: ogre, TO: kripptik, ENV: room/orc_valley/valley02
+PO: sys/player#5231, TP: ogre, TO: kripptik, ENV: room/orc_valley/valley02
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: room/vill_track
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: players/cashimor/extend/village1
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: players/cashimor/extend/village1
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: players/cashimor/extend/village1
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: players/cashimor/extend/village1
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: players/cashimor/extend/village1
+PO: sys/player#5231, TP: taliesin, TO: kripptik, ENV: players/cashimor/extend/village1
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#260, TP: Fluffy the dragon, TO: kripptik, ENV: room/vill_road1b
+PO: sys/player#789, TP: cyhyraeth, TO: kripptik, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#789, TP: seelie, TO: kripptik, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#1690, TP: jiriki, TO: jiriki, ENV: players/emerald/perilous/forest/rmR3
+PO: sys/player#4446, TP: giant, TO: lllllisa, ENV: room/giant_lair
+PO: sys/player#4513, TP: cyhyraeth, TO: hubioso, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#4824, TP: cyhyraeth, TO: hubioso, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#1111, TP: gardener, TO: kripptik, ENV: players/kelly/rooms/violens
+PO: sys/player#4560, TP: Wild Boar, TO: monique, ENV: players/mangla/rooms/newbie/new14
+PO: sys/player#4871, TP: lalartu, TO: lalartu, ENV: players/uglymouth/vikings/bay_se
+PO: sys/player#2403, TP: seelie, TO: hubioso, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#2699, TP: fox, TO: alalxul, ENV: players/emerald/country/8
+PO: sys/player#521, TP: coldrik, TO: vadkender, ENV: players/meecham/tower/hole/cols_room
+PO: sys/player#5680, TP: priest, TO: akhkharu, ENV: players/herp/room/father
+PO: sys/player#527, TP: ogre, TO: kripptik, ENV: room/orc_valley/valley07
+PO: sys/player#2965, TP: troll, TO: kail, ENV: room/forest2
+PO: sys/player#250, TP: cyhyraeth, TO: akhkharu, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#197, TP: fat dragon, TO: ari, ENV: players/whisky/garden/room/dragon_room
+PO: sys/player#4524, TP: brown goblin, TO: akhkharu, ENV: players/apollo/thieves/rooms/sewer04
+PO: sys/player#683, TP: gardener, TO: lentus, ENV: players/emerald/garden/gard_ent
+PO: sys/player#2962, TP: gardener, TO: white, ENV: room/yard
+PO: sys/player#2962, TP: paperboy, TO: white, ENV: room/vill_green
+PO: sys/player#2962, TP: paperboy, TO: white, ENV: room/vill_green
+PO: sys/player#2955, TP: mulabi, TO: lentus, ENV: players/airborne/temple/entrance/tent
+PO: sys/player#2981, TP: guard, TO: yambu, ENV: players/tuppence/fortress/room/gates
+PO: sys/player#1926, TP: rat, TO: lentus, ENV: players/apollo/thieves/rooms/sewer04
+PO: sys/player#1926, TP: rat, TO: lentus, ENV: players/apollo/thieves/rooms/sewer04
+PO: sys/testp#4282, TP: tatsuo, TO: khufu, ENV: players/emerald/garden/garden1
+PO: sys/player#413, TP: Wild Boar, TO: akhkharu, ENV: players/mangla/rooms/newbie/new14
+PO: sys/player#856, TP: seelie, TO: moses, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#1130, TP: seelie, TO: moses, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#1506, TP: rat, TO: ogbu, ENV: players/apollo/thieves/rooms/fighter
+PO: sys/player#1553, TP: troll, TO: ogbu, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#1572, TP: ogbu, TO: ogbu, ENV: players/whisky/garden/room/oven
+PO: sys/player#1707, TP: rudi, TO: ogbu, ENV: players/whisky/garden/room/path1
+PO: sys/player#1865, TP: rudi, TO: ogbu, ENV: players/whisky/garden/room/path1
+PO: sys/player#203, TP: Darkling Prince, TO: kripptik, ENV: players/tamina/castle/rooms/bedroom
+PO: sys/player#2599, TP: red dragon, TO: kripptik, ENV: players/emerald/perilous/hot/red_drag
+PO: sys/player#1512, TP: coldrikian demon, TO: akhkharu, ENV: players/meecham/tower/entrance
+PO: sys/player#1667, TP: pirate king, TO: akhkharu, ENV: players/padrone/walker/bridge
+PO: sys/player#1258, TP: wasp, TO: akhkharu, ENV: players/figleaf/link/link5
+PO: sys/player#7238, TP: orc, TO: allsiante, ENV: room/orc_valley/fortress
+PO: sys/player#3704, TP: peasant, TO: white, ENV: players/brainsprain/bis/rooms/tr-15
+PO: sys/player#3851, TP: rat, TO: lentus, ENV: players/apollo/thieves/rooms/sewer04
+PO: sys/player#4464, TP: wolf, TO: allsiante, ENV: room/forest1
+PO: sys/player#199, TP: troll, TO: allsiante, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#6213, TP: purple ape, TO: allsiante, ENV: players/misticalla/area/rooms/vine09
+PO: sys/player#6213, TP: purple ape, TO: allsiante, ENV: players/misticalla/area/rooms/vine09
+PO: sys/player#9273, TP: troll, TO: moses, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#2749, TP: cyhyraeth, TO: kharne, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#2749, TP: Wild Boar, TO: kharne, ENV: players/mangla/rooms/newbie/new6
+PO: sys/player#779, TP: troll, TO: kharne, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#779, TP: orc, TO: kharne, ENV: room/orc_valley/orc_vall
+PO: sys/player#4151, TP: wasp, TO: papasmurf, ENV: players/figleaf/link/link5
+PO: sys/player#5673, TP: violens, TO: balazs, ENV: room/vill_road1b
+PO: sys/player#7219, TP: Black Bull, TO: yambu, ENV: players/apollo/guild/rooms/open11
+PO: sys/player#2671, TP: Monk Wuki, TO: myxlplic, ENV: players/whisky/meadow/room/m3
+PO: sys/player#3123, TP: Jack the Ripper, TO: myxlplic, ENV: players/saffrin/area/pk/room/h18
+PO: sys/player#1955, TP: wasp, TO: papasmurf, ENV: players/figleaf/link/link5
+PO: sys/player#4985, TP: atsui, TO: star, ENV: room/mount_top2
+PO: sys/player#3554, TP: cyhyraeth, TO: homokontosz, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#5472, TP: rudi, TO: zone, ENV: players/emerald/seaworld/room/path_end
+PO: sys/player#5614, TP: troll, TO: zone, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#7433, TP: troll King, TO: abegnego, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#8002, TP: kripptik, TO: kripptik, ENV: players/emerald/perilous/path/path6
+PO: sys/player#7015, TP: sheankala, TO: moses, ENV: players/wilbie/graveyard/doom11
+PO: sys/player#4674, TP: seelie, TO: jace, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#199, TP: leeloo, TO: leeloo, ENV: players/whisky/garden/room/oven
+PO: sys/player#1739, TP: leeloo, TO: leeloo, ENV: players/patience/ezo/inner-yard1
+PO: sys/player#3430, TP: large orc, TO: papasmurf, ENV: room/orc_valley/valley13
+PO: sys/player#7247, TP: nobunaga, TO: nobunaga, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#210, TP: Morgan le Fey, TO: leeloo, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#2496, TP: aurak draconian, TO: missti, ENV: players/emerald/forest/f3-0
+PO: sys/player#2496, TP: Wild Boar, TO: missti, ENV: players/mangla/rooms/newbie/new6
+PO: sys/player#2496, TP: wolf, TO: missti, ENV: players/whisky/garden/room/garden4
+PO: sys/player#2496, TP: wolf, TO: missti, ENV: players/whisky/garden/room/garden4
+PO: sys/player#2496, TP: seelie, TO: missti, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#205, TP: Fluffy the dragon, TO: doolotz, ENV: room/vill_road2
+PO: sys/player#205, TP: Fluffy the dragon, TO: doolotz, ENV: room/vill_road2
+PO: sys/player#1808, TP: seelie, TO: guest, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#2117, TP: seelie, TO: fulop, ENV: players/saffrin/area/aine/room/for18
+PO: sys/player#3402, TP: harry, TO: bildon, ENV: room/vill_road2
+PO: sys/player#4549, TP: paperboy, TO: bkbear, ENV: room/vill_green
+PO: sys/player#1384, TP: orc, TO: yambu, ENV: room/orc_valley/orc_vall
+PO: sys/player#441, TP: troll, TO: thunder, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#441, TP: troll, TO: thunder, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#1384, TP: yellow goblin, TO: yambu, ENV: room/forest2
+PO: sys/player#3835, TP: troll King, TO: slp, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#4948, TP: shadow, TO: guest, ENV: players/turbo/workroom
+PO: sys/player#5600, TP: gardener, TO: thunder, ENV: players/emerald/garden/gard_ent
+PO: sys/player#2778, TP: The King, TO: doolotz, ENV: players/emerald/castle/rooms/tr
+PO: sys/player#1298, TP: peasant, TO: white, ENV: players/brainsprain/bis/rooms/tr-16
+PO: sys/player#1298, TP: orc, TO: white, ENV: room/orc_valley/fortress
+PO: sys/player#1341, TP: evil bat, TO: white, ENV: players/tuppence/fortress/room/hall6
+PO: sys/player#6361, TP: large orc, TO: rex, ENV: room/orc_valley/valley05
+PO: sys/player#4241, TP: wasp, TO: lacar, ENV: players/figleaf/link/link5
+PO: sys/player#191, TP: yellow goblin, TO: roslinda, ENV: room/forest4
+PO: sys/player#3356, TP: Morgan le Fey, TO: herron, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#6082, TP: bruce lee, TO: xirtam, ENV: players/whisky/guild/room/c8
+PO: sys/player#6176, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6185, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6194, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6203, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6246, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6262, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6276, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6285, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6295, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6305, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#6315, TP: troll, TO: xirtam, ENV: room/forest2
+PO: sys/player#8689, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#8689, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/testp#3824, TP: tatsuo, TO: khufu, ENV: players/tatsuo/workroom
+PO: sys/player#3078, TP: cyhyraeth, TO: ramoth, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#3078, TP: guard, TO: ramoth, ENV: players/warlord/rooms/room3
+PO: sys/player#2548, TP: troll, TO: crimson, ENV: room/forest2
+PO: sys/player#2778, TP: clemens, TO: guest, ENV: players/herp/room/pit
+PO: sys/player#1337, TP: grazzt, TO: leeloo, ENV: players/sherman/hills/cave4
+PO: sys/player#1275, TP: paperboy, TO: thamek, ENV: room/vill_green
+PO: sys/player#2173, TP: seelie, TO: traveller, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#2659, TP: sheankala, TO: demolian, ENV: players/wilbie/graveyard/doom11
+PO: sys/player#1067, TP: Loch Ness Monster, TO: milarepa, ENV: players/apollo/area2/rooms/lake11
+PO: sys/player#7677, TP: violens, TO: traveller, ENV: players/kelly/rooms/violens
+PO: sys/player#1241, TP: priest, TO: eek, ENV: players/herp/room/father
+PO: sys/player#1627, TP: Neat Freak, TO: mickyfin, ENV: players//warlord/drac/dracdun4
+PO: sys/player#1812, TP: wolf, TO: bastha, ENV: room/clearing
+PO: sys/player#4757, TP: ogre, TO: traveller, ENV: room/orc_valley/valley07
+PO: sys/player#545, TP: chipmunk, TO: tamuco, ENV: players/airborne/new/newbie11
+PO: sys/player#2016, TP: huorn, TO: papasmurf, ENV: players/emerald/perilous/forest/rmF
+PO: sys/player#2911, TP: cyhyraeth, TO: tamuco, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#7280, TP: cyhyraeth, TO: tamuco, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#2298, TP: keeper, TO: tamuco, ENV: players/colossus/mearth/shire/road1
+PO: sys/player#1883, TP: Fluffy the dragon, TO: whitefawn, ENV: room/vill_road2
+PO: sys/player#3330, TP: paperboy, TO: tamuco, ENV: room/vill_green
+PO: sys/player#3350, TP: black beetle, TO: tamuco, ENV: players/whisky/tree/room/t3
+PO: sys/player#3381, TP: bull, TO: tamuco, ENV: players/whisky/meadow/room/m5
+PO: sys/player#1103, TP: harry, TO: buzz, ENV: room/vill_road2
+PO: sys/player#1604, TP: orc, TO: guest, ENV: room/orc_valley/valley03
+PO: sys/player#1683, TP: octopus, TO: zzub, ENV: room/sea_bottom
+PO: sys/player#2628, TP: orc, TO: snappy, ENV: room/orc_valley/orc_vall
+PO: sys/player#2443, TP: Fluffy the dragon, TO: whiplash, ENV: room/vill_road2
+PO: sys/player#5159, TP: lepracaun, TO: tamuco, ENV: players/saffrin/area/fairy/wood/wood45
+PO: sys/player#2888, TP: bruce lee, TO: tripleh, ENV: players/whisky/guild/room/c8
+PO: sys/player#205, TP: sentinel, TO: buzzbuzz, ENV: players/tamina/castle/rooms/court3
+PO: sys/player#2200, TP: lepracaun, TO: tamuco, ENV: players/saffrin/area/fairy/wood/wood57
+PO: sys/player#4978, TP: xan, TO: xan, ENV: players/sauron/guild/room
+PO: sys/testp#232, TP: lagbeast, TO: zathras, ENV: players/turbo/rooms/elder/blue/blue_center
+PO: sys/player#6364, TP: troll King, TO: buzzbuzz, ENV: players/moonchild/trollslayer/trollking
+PO: sys/player#216, TP: Fluffy the dragon, TO: buzzbuzz, ENV: room/vill_road2
+PO: sys/player#5441, TP: bull, TO: shadowmist, ENV: players/whisky/meadow/room/m5
+PO: sys/player#3424, TP: shadow, TO: demolian, ENV: players/turbo/rooms/elder/black/black_center
+PO: sys/player#5791, TP: resul, TO: resul, ENV: players/emerald/garden/gard_ent
+PO: sys/player#9282, TP: Wild Boar, TO: tamuco, ENV: players/mangla/rooms/newbie/new6
+PO: sys/player#611, TP: cyhyraeth, TO: tamuco, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#1637, TP: seelie, TO: tamuco, ENV: players/saffrin/area/aine/room/for2
+PO: sys/player#6526, TP: seelie, TO: tamuco, ENV: players/saffrin/area/aine/room/for2
+PO: sys/testp#5092, TP: shadow, TO: zathras, ENV: players/turbo/workroom
+PO: sys/player#617, TP: Old man, TO: fadi, ENV: players/brainsprain/bis/rooms/archive
+PO: sys/player#8257, TP: rat, TO: buzzbuzz, ENV: players/apollo/thieves/rooms/fighter
+PO: sys/testp#1266, TP: exos, TO: gryphon, ENV: players/thumper/workroom
+PO: sys/player#1508, TP: troll, TO: akhkharu, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#1528, TP: paperboy, TO: fodder, ENV: room/vill_green
+PO: sys/testp#2209, TP: clemens, TO: zathras, ENV: players/herp/room/pit
+PO: sys/testp#3493, TP: tatsuo, TO: fodder, ENV: players/silas/houses/house#2796
+PO: sys/testp#1081, TP: exos, TO: gryphon, ENV: players/whisky/meadow/room/m3
+PO: sys/player#3363, TP: wasp, TO: tamuco, ENV: players/figleaf/link/link5
+PO: sys/player#844, TP: lizardman, TO: reneel, ENV: players/airborne/temple/entrance/land4
+PO: sys/player#971, TP: blackmajik, TO: aoife, ENV: players/tuppence/fortress/room/top5
+PO: sys/player#2395, TP: clemens, TO: doolittle, ENV: players/herp/room/pit
+PO: sys/player#1660, TP: priest, TO: guest, ENV: players/herp/room/father
+PO: sys/player#1660, TP: priest, TO: guest, ENV: players/herp/room/father
+PO: sys/player#1660, TP: priest, TO: guest, ENV: players/herp/room/father
+PO: sys/player#1660, TP: priest, TO: guest, ENV: players/herp/room/father
+PO: sys/player#1660, TP: clemens, TO: guest, ENV: players/herp/room/pit
+PO: sys/player#2240, TP: troll, TO: guest, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#2334, TP: priest, TO: white, ENV: players/herp/room/father
+PO: sys/player#2334, TP: priest, TO: white, ENV: players/herp/room/father
+PO: sys/player#2334, TP: white, TO: white, ENV: players/cashimor/rooms/elevator
+PO: sys/player#2418, TP: white, TO: white, ENV: players/moonchild/newbie/hut
+PO: sys/player#2650, TP: paperboy, TO: white, ENV: room/vill_green
+PO: sys/player#973, TP: countvlad, TO: countvlad, ENV: players/silas/houses/house#1248
+PO: sys/player#2342, TP: demolian, TO: kiri, ENV: room/vill_green
+PO: sys/player#2342, TP: kiri, TO: kiri, ENV: players/emerald/seaworld/room/sw25
+PO: sys/player#6816, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#478, TP: pixie, TO: svengali, ENV: players/cashimor/extend/village1
+PO: sys/player#1423, TP: huge orc, TO: tamuco, ENV: room/orc_valley/valley09
+PO: sys/testp#5192, TP: Kosh Narenek, TO: zathras, ENV: players/turbo/workroom
+PO: sys/player#14291, TP: Vaevictis, TO: gwynn, ENV: players/turbo/rooms/elder/white/palace
+PO: sys/player#16034, TP: troll, TO: funkywill, ENV: players/moonchild/trollslayer/troll2
+PO: sys/player#16086, TP: fritz, TO: milarepa, ENV: players/cashimor/rooms/sideroom
+PO: sys/player#30599, TP: singing monk, TO: guest, ENV: players/whisky/guild/room/c5
+PO: sys/player#14198, TP: troll, TO: windwalker, ENV: players/moonchild/trollslayer/troll2
+PO: sys/testp#12003, TP: exos, TO: gryphon, ENV: room/vill_green
+PO: sys/testp#12003, TP: exos, TO: gryphon, ENV: room/vill_green
+PO: sys/testp#7471, TP: tatsuo, TO: khufu, ENV: players/nae/workroom
+PO: sys/player#8469, TP: horse, TO: tamuco, ENV: players/emerald/town/t19
+PO: sys/player#13007, TP: huorn, TO: chantilly, ENV: players/emerald/perilous/forest/rmF
+PO: sys/testp#12612, TP: tatsuo, TO: khufu, ENV: players/tatsuo/guild/room
+PO: sys/testp#12612, TP: tatsuo, TO: khufu, ENV: players/tatsuo/guild/room
+PO: sys/testp#12612, TP: tatsuo, TO: khufu, ENV: players/tatsuo/guild/room
+PO: sys/testp#2076, TP: tatsuo, TO: khufu, ENV: players/redsexy/test
+PO: sys/player#2966, TP: gardener, TO: jaerius, ENV: players/emerald/garden/gard_ent
+PO: sys/player#4782, TP: paperboy, TO: beradorn, ENV: room/vill_green
+PO: sys/player#10434, TP: demolian, TO: nobunaga, ENV: players/wilbie/graveyard/doom10
+PO: sys/player#13552, TP: mukade, TO: diashi, ENV: players/tatsuo/ezo/cave/cave30
+PO: sys/player#14171, TP: paperboy, TO: christos, ENV: room/vill_green
+PO: sys/testp#17238, TP: tatsuo, TO: khufu, ENV: guild/master
+PO: sys/player#11125, TP: wasp, TO: buffy, ENV: players/figleaf/link/link5
+PO: sys/player#20184, TP: gargantuan Gorilla, TO: demolian, ENV: players/turbo/rooms/elder/green/green5
+PO: sys/player#24698, TP: sylvia, TO: sylvia, ENV: players/tatsuo/ezo/cave/cave21
+PO: sys/player#30029, TP: Kosh Narenek, TO: demolian, ENV: players/turbo/rooms/elder/blue/blue_center
+PO: sys/testp#3406, TP: tatsuo, TO: khufu, ENV: players/tatsuo/guild/room
+PO: sys/testp#3406, TP: tatsuo, TO: khufu, ENV: players/tatsuo/guild/room
+PO: sys/player#7600, TP: rat, TO: spook, ENV: players/apollo/thieves/rooms/fighter
+PO: sys/player#7814, TP: wolf, TO: spook, ENV: room/plane1
+PO: sys/player#9918, TP: gardener, TO: blackcat, ENV: players/emerald/garden/gard_ent
+PO: sys/player#12300, TP: paperboy, TO: guest, ENV: room/vill_green
+PO: sys/player#15041, TP: wolf, TO: dixon, ENV: players/whisky/garden/room/forest4
+PO: sys/player#15041, TP: rat, TO: dixon, ENV: players/apollo/thieves/rooms/fighter
+PO: sys/player#16463, TP: monk, TO: tamuco, ENV: players/warlord/hut1
+PO: sys/player#1945, TP: peasant, TO: spook, ENV: players/brainsprain/bis/rooms/tr-16
+PO: sys/testp#1488, TP: sargon, TO: ryuoki, ENV: players/redsexy/workroom
+PO: sys/testp#2168, TP: tatsuo, TO: khufu, ENV: players/tatsuo/guild/room
+PO: sys/testp#1488, TP: exos, TO: ryuoki, ENV: players/redsexy/workroom
+PO: sys/player#3831, TP: majik, TO: munster, ENV: players/emerald/island/room/i18
+PO: sys/player#9100, TP: bolborn, TO: bolborn, ENV: players/tatsuo/ezo/ryuworld/wo2
+PO: sys/player#12172, TP: The Sarlacc, TO: majik, ENV: players/redsexy/jedi/areas/island/deeppit
+PO: sys/player#7510, TP: troll, TO: dwarin, ENV: room/forest2
+PO: sys/player#13733, TP: bruce lee, TO: tamuco, ENV: players/whisky/guild/room/c8
+PO: sys/player#15760, TP: The Sarlacc, TO: zytok, ENV: players/redsexy/jedi/areas/island/deeppit
+PO: sys/player#16125, TP: The Sarlacc, TO: guest, ENV: players/redsexy/jedi/areas/island/deeppit
+PO: sys/player#17678, TP: rudi, TO: asellith, ENV: players/whisky/garden/room/path2
+PO: sys/player#19430, TP: dog, TO: psi, ENV: players/moonchild/haunter/outh1
+PO: sys/player#22028, TP: wolf, TO: dixon, ENV: room/forest1
+PO: sys/player#4313, TP: ryu, TO: tetsuhara, ENV: players/tatsuo/ezo/ryuworld/c3
+PO: sys/player#5696, TP: yellow goblin, TO: cassianus, ENV: room/forest8
+PO: sys/player#7442, TP: sandperson, TO: cassianus, ENV: players/redsexy/jedi/areas/island/30
+PO: sys/player#9420, TP: cassianus, TO: cassianus, ENV: players/whisky/garden/room/oven
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/sargon/area/b13
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/sargon/area/b13
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/sargon/area/b13
+PO: sys/testp#13762, TP: redsexy, TO: ryuoki, ENV: players/sargon/area/b13
+PO: sys/testp#13762, TP: redsexy, TO: ryuoki, ENV: players/sargon/area/b13
+PO: sys/testp#13762, TP: redsexy, TO: ryuoki, ENV: players/sargon/area/b13
+PO: sys/player#14404, TP: huge orc, TO: spook, ENV: room/orc_valley/valley10
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/redsexy/jedi/areas/island/raft
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/redsexy/workroom
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/redsexy/workroom
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/redsexy/workroom
+PO: sys/testp#13762, TP: sargon, TO: ryuoki, ENV: players/redsexy/workroom
+PO: sys/player#18258, TP: wasp, TO: psi, ENV: players/figleaf/link/link5
+PO: sys/player#23200, TP: harry, TO: mat, ENV: room/vill_road2
+PO: sys/player#1393, TP: Fluffy the dragon, TO: spook, ENV: room/vill_road2
+PO: sys/player#739, TP: coldrikian demon, TO: luneya, ENV: players/meecham/tower/entrance
+PO: sys/player#1393, TP: Fluffy the dragon, TO: spook, ENV: room/vill_road2
+PO: sys/testp#6907, TP: wilbie, TO: bonzai, ENV: players/wilbie/workroom
+PO: sys/player#7911, TP: charmed ivy, TO: psi, ENV: players/tuppence/fortress/room/moat8
+PO: sys/player#11312, TP: troll, TO: yambu, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#11823, TP: orc, TO: luneya, ENV: room/orc_valley/fortress
+PO: sys/testp#14310, TP: khufu, TO: khufu, ENV: players/wilbie/workroom
+PO: sys/testp#14353, TP: wilbie, TO: bonzai, ENV: players/wilbie/workroom
+PO: sys/player#15032, TP: tetsuhara, TO: tamuco, ENV: room/vill_green
+PO: sys/player#18269, TP: ogre, TO: quasimodo, ENV: room/orc_valley/valley06
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: troll, TO: quasimodo, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#18269, TP: quasimodo, TO: quasimodo, ENV: players/sauron/guild/room
+PO: sys/player#18269, TP: quasimodo, TO: quasimodo, ENV: players/sauron/guild/room
+PO: sys/player#21425, TP: The King, TO: tamuco, ENV: players/emerald/castle/rooms/tr
+PO: sys/player#1809, TP: orc, TO: demolian, ENV: players/redsexy/workroom
+PO: sys/testp#3152, TP: fire demon, TO: ryuoki, ENV: players/redsexy/guild/rooms/fireroom

@@ -1,0 +1,165 @@
+players/tamina/others/ted/r_knight.c line 8:Variable TO not declared !
+players/tamina/others/ted/r_knight.c line 8:Too many arguments to clone_object
+players/tamina/others/ted/r_knight.c line 9:Variable TO not declared !
+players/tamina/others/ted/r_knight.c line 31:syntax error
+players/tamina/others/ted/r_knight.c line 10:Too many arguments to clone_object
+players/tamina/others/ted/r_knight.c line 33:syntax error
+players/tamina/others/roomcreator.c line 13:Cannot #include debug.h
+players/tamina/others/roomcreator.c line 614:Variable is_debug not declared !
+players/tamina/others/roomcreator.c line 620:Variable is_debug not declared !
+players/tamina/others/roomcreator.c line 634:Variable is_debug not declared !
+players/tamina/others/roomcreator.c line 646:Variable is_debug not declared !
+players/tamina/others/ted/b_knight.c line 45:Variable TO not declared !
+players/tamina/forgold.c line 2:Cannot #include ../full.h
+players/tamina/castle/rooms/wwing2.c line 51:Variable str not declared !
+players/tamina/castle/rooms/wwing3.c line 16:Newline in string
+players/tamina/castle/rooms/wwing3.c line 18:syntax error
+players/tamina/castle/rooms/wwing3.c line 19:syntax error
+players/tamina/castle/rooms/ewing3.c line 22:syntax error
+players/tamina/castle/obj/seeker.c line 42:Variable on not declared !
+players/tamina/castle/obj/helmet.c line 24:syntax error
+players/tamina/castle/obj/helmet.c line 6:illegal to inherit after defining functions
+
+players/tamina/castle/monsters/mordred.c line 49:Variable mor02 not declared !
+players/tamina/castle/rooms/quad.c line 45:Variable searched not declared !
+players/tamina/castle/rooms/quad.c line 51:Newline in string
+players/tamina/castle/rooms/quad.c line 52:syntax error
+players/tamina/castle/rooms/wgarden.c line 79:syntax error
+players/tamina/castle/rooms/wgarden.c line 94:syntax error
+players/tamina/castle/rooms/barracks_u.c line 35:syntax error
+players/tamina/castle/rooms/barracks_u.c line 47:syntax error
+players/tamina/castle/rooms/barracks_u.c line 47:Illegal LHS
+players/tamina/castle/rooms/barracks_u.c line 49:syntax error
+players/tamina/castle/rooms/barracks_u.c line 52:Illegal LHS
+players/tamina/castle/rooms/infirm.c line 103:syntax error
+players/tamina/castle/rooms/infirm.c line 105:Illegal LHS
+players/tamina/castle/monsters/agravain.c line 41:Variable obj not declared !
+players/tamina/castle/monsters/agravain.c line 41:Newline in string
+players/tamina/castle/monsters/agravain.c line 41:syntax error
+players/tamina/castle/rooms/barracks_u.c line 35:syntax error
+players/tamina/castle/rooms/barracks_u.c line 47:syntax error
+players/tamina/castle/rooms/barracks_u.c line 47:Illegal LHS
+players/tamina/castle/rooms/barracks_u.c line 49:syntax error
+players/tamina/castle/rooms/barracks_u.c line 52:Illegal LHS
+players/tamina/castle/obj/grape.c line 29:Variable TP_ not declared !
+players/tamina/castle/obj/grape.c line 30:Variable TP_ not declared !
+players/tamina/castle/obj/grape.c line 33:Variable TP_ not declared !
+players/tamina/castle/obj/grape.c line 34:Variable TP_ not declared !
+players/tamina/castle/obj/grape.c line 27:Variable TPN not declared !
+players/tamina/castle/fire/rm3.c line 64:syntax error
+players/tamina/castle/fire/rm3.c line 78:syntax error
+players/tamina/castle/fire/rm4.c line 66:syntax error
+players/tamina/castle/monsters/morgan.c line 47:syntax error
+players/tamina/others/roomcreator.c line 13:Cannot #include debug.h
+players/tamina/others/roomcreator.c line 614:Variable is_debug not declared !
+players/tamina/others/roomcreator.c line 620:Variable is_debug not declared !
+players/tamina/others/roomcreator.c line 634:Variable is_debug not declared !
+players/tamina/others/roomcreator.c line 646:Variable is_debug not declared !
+players/tamina/castle/obj/well.c line 57:Variable items not declared !
+players/tamina/castle/rooms/well1.c line 86:syntax error
+players/tamina/castle/rooms/court2.c line 33:syntax error
+players/tamina/castle/rooms/court2.c line 33:syntax error
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 15:syntax error
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 54:Illegal LHS
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 15:syntax error
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 15:Illegal character (hex 40) '@'
+players/tamina/castle/obj/well.c line 54:Illegal LHS
+players/tamina/fortat.c line 42:Bad initializer type
+players/tamina/fortat.c line 42:Missing type
+players/tamina/fortat.c line 43:syntax error
+players/tamina/fortat.c line 42:Bad initializer type
+players/tamina/fortat.c line 42:Missing type
+players/tamina/fortat.c line 43:syntax error
+players/tamina/fortat.c line 55:Return type not matching: "int "
+players/tamina/fortat.c line 23:syntax error
+players/tamina/fortat.c line 35:Illegal LHS
+players/tamina/castle/obj/well.c line 8:Newline in string
+players/tamina/castle/obj/well.c line 9:syntax error
+players/tamina/castle/obj/well.c line 31:function not defined by inheritance as specified
+players/tamina/castle/obj/well.c line 31:function not defined by inheritance as specified
+players/tamina/castle/rooms/wgarden.c line 6:Unrecognized inheritance modifier qualifier
+players/tamina/castle/rooms/wgarden.c line 6:Unrecognized inheritance modifier qualifier
+players/tamina/castle/rooms/wgarden.c line 6:syntax error
+players/tamina/castle/rooms/crypt3.c line 24:Illegal character (hex 40) '@'
+players/tamina/castle/rooms/crypt3.c line 24:syntax error
+players/tamina/castle/rooms/crypt3.c line 24:Illegal character (hex 40) '@'
+players/tamina/castle/rooms/crypt3.c line 24:Illegal character (hex 40) '@'
+players/tamina/castle/rooms/crypt3.c line 24:Illegal character (hex 40) '@'
+players/tamina/castle/rooms/crypt3.c line 55:Illegal LHS
+players/tamina/castle/obj/tomb1.c line 30:function not defined by inheritance as specified
+players/tamina/castle/rooms/crypt5.c line 52:Variable things not declared !
+players/tamina/castle/rooms/crypt5.c line 53:Variable things not declared !
+players/tamina/castle/rooms/crypt5.c line 51:Variable thing not declared !
+players/tamina/castle.c line 30:function not defined by inheritance as specified
+players/tamina/castle.c line 36:syntax error
+players/tamina/castle.c line 39:Illegal LHS
+players/tamina/castle.c line 40:syntax error
+players/tamina/castle.c line 40:Illegal LHS
+players/tamina/castle.c line 42:Variable drokk_it not declared !
+players/tamina/others/who2.c line 216:syntax error
+players/tamina/others/who2.c line 218:Illegal LHS
+players/tamina/others/who2.c line 219:Variable lv not declared !
+players/tamina/others/who2.c line 219:Variable lv not declared !
+players/tamina/others/who2.c line 220:Variable lv not declared !
+players/tamina/others/who2.c line 221:Variable lv not declared !
+players/tamina/castle.c line 57:syntax error
+players/tamina/castle.c line 60:Illegal LHS
+players/tamina/castle.c line 61:syntax error
+players/tamina/castle.c line 61:Illegal LHS
+players/tamina/castle.c line 63:Variable drokk_it not declared !
+players/tamina/castle.c line 64:Variable i not declared !
+players/tamina/castle.c line 57:syntax error
+players/tamina/castle.c line 60:Illegal LHS
+players/tamina/castle.c line 61:syntax error
+players/tamina/castle.c line 61:Illegal LHS
+players/tamina/castle.c line 63:Variable drokk_it not declared !
+players/tamina/castle.c line 64:Variable i not declared !
+players/tamina/others/boots.c line 2:Cannot #include /players/tamina/desf.h
+players/tamina/others/boots.c line 5:syntax error
+players/tamina/others/boots.c line 5:syntax error
+players/tamina/others/boots.c line 5:syntax error
+players/tamina/castle/rooms/ne_tower3.c line 98:syntax error
+players/tamina/castle/rooms/ne_tower3.c line 99:Must return a value for a function declared: "int "
+players/tamina/castle/rooms/ne_tower3.c line 103:Must return a value for a function declared: "int "
+players/tamina/castle/obj/maiden.c line 8:Missing type
+players/tamina/castle/obj/maiden.c line 132:Variable pulled not declared !
+players/tamina/castle/obj/maiden.c line 153:Variable pulled not declared !
+players/tamina/castle/obj/maiden.c line 164:Variable pulled not declared !
+players/tamina/castle/obj/maiden.c line 174:Variable pulled not declared !
+players/tamina/castle/obj/maiden.c line 185:Variable pulled not declared !
+players/tamina/castle/obj/maiden.c line 8:Missing type
+players/tamina/castle/rooms/nw_tower1.c line 56:syntax error
+players/tamina/castle/rooms/nw_tower1.c line 87:syntax error
+players/tamina/castle/rooms/nw_tower1.c line 92:Illegal LHS
+players/tamina/castle/rooms/nw_tower1.c line 92:Illegal LHS
+players/tamina/castle/rooms/nw_tower1.c line 94:Return type not matching: "void "
+players/tamina/castle/rooms/nw_tower1.c line 100:Variable has_searched not declared !
+players/tamina/castle/rooms/nw_tower1.c line 55:syntax error
+players/tamina/castle/rooms/nw_tower1.c line 55:syntax error
+players/tamina/castle/rooms/NW_tower2.c line 72:syntax error
+players/tamina/castle/rooms/NW_tower2.c line 73:syntax error
+players/tamina/castle/rooms/hole2.c line 34:Newline in string
+players/tamina/castle/rooms/hole2.c line 35:syntax error
+players/tamina/castle/rooms/hole2.c line 37:Newline in string
+players/tamina/castle/obj/vial.c line 38:syntax error
+players/tamina/castle/obj/vial.c line 40:Illegal LHS
+players/tamina/castle/obj/vial.c line 43:Too few arguments to write
+players/tamina/castle/obj/bed.c line 3:Missing leading " in #include
+players/tamina/castle/obj/bed.c line 7:syntax error
+players/tamina/castle/obj/bed.c line 7:syntax error
+players/tamina/castle/obj/bed.c line 7:Missing type
+players/tamina/castle/obj/bed.c line 8:Missing type
+players/tamina/castle/obj/chest.c line 11:syntax error
+players/tamina/castle/obj/chest.c line 11:Illegal character (hex 2e) '.'
+players/tamina/castle/obj/chest.c line 12:Illegal LHS
+players/tamina/castle/obj/chest.c line 26:Illegal character (hex 2e) '.'
+players/tamina/castle/obj/chest.c line 27:Illegal LHS
+players/tamina/castle/obj/chest2.c line 18:syntax error
+players/tamina/castle/obj/chest2.c line 33:Undefined function set_class

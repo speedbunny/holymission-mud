@@ -1,0 +1,8 @@
+players/goldsun/stand.h line 9:Redefinition of #define PATH
+players/goldsun/stand.h line 9:Redefinition of #define PATH
+players/goldsun/7-islands/diamond/room/genRidge.c line 32:syntax error
+players/goldsun/7-islands/diamond/room/genRidge.c line 32:Illegal character (hex 2e) '.'
+players/goldsun/7-islands/diamond/room/genRidge.c line 32:Illegal character (hex 5c) '\'
+players/goldsun/7-islands/diamond/room/genRidge.c line 32:Newline in string
+players/goldsun/7-islands/diamond/room/genRidge.c line 36:Illegal LHS
+players/goldsun/7-islands/diamond/room/genRidge.c line 36:Illegal LHS

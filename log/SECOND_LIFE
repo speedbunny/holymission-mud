@@ -1,0 +1,65 @@
+PO: sys/testp#3152, TP: fire demon, TO: ryuoki, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/testp#4444, TP: tatsuo, TO: ryuoki, ENV: room/sea
+PO: sys/player#9579, TP: silthar, TO: cassianus, ENV: players/tuppence/fortress/room/moat11
+PO: sys/player#8232, TP: guard, TO: deidra, ENV: players/tuppence/fortress/room/slroom2
+PO: sys/player#16591, TP: pheasant, TO: luneya, ENV: players/whisky/tree/room/t4
+PO: sys/player#16747, TP: ogre, TO: tamuco, ENV: room/orc_valley/valley06
+PO: sys/player#23934, TP: troll, TO: yambu, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#31814, TP: ryu, TO: psychopath, ENV: players/tatsuo/ezo/ryuworld/c10
+PO: sys/player#31275, TP: yellow goblin, TO: dixon, ENV: room/forest5
+PO: sys/player#46106, TP: cassianus, TO: cassianus, ENV: room/pub2
+PO: sys/testp#560, TP: ryu, TO: khufu, ENV: players/tatsuo/ezo/ryuworld/c8
+PO: sys/testp#2385, TP: tatsuo, TO: ryuoki, ENV: players/tatsuo/workroom
+PO: sys/player#8042, TP: wasp, TO: kitty, ENV: players/figleaf/link/link5
+PO: sys/player#8042, TP: wasp, TO: kitty, ENV: players/figleaf/link/link5
+PO: sys/player#10965, TP: coldrikian demon, TO: cassianus, ENV: players/meecham/tower/entrance
+PO: sys/player#426, TP: ryu, TO: lovechild, ENV: players/tatsuo/ezo/ryuworld/c9
+PO: sys/player#8542, TP: priest, TO: lllllisa, ENV: room/vill_green
+PO: sys/player#9716, TP: craw wurm, TO: moses, ENV: players/turbo/rooms/darkside/wurm/wurm5
+PO: sys/player#12923, TP: troll, TO: yambu, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#2213, TP: fire demon, TO: lyric, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#2859, TP: wasp, TO: spook, ENV: players/figleaf/link/link5
+PO: sys/player#2897, TP: fire demon, TO: kirill, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#3134, TP: fire demon, TO: kirill, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#3151, TP: fire demon, TO: kirill, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#3312, TP: fire demon, TO: kirill, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#3434, TP: fire demon, TO: kirill, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#3636, TP: warg, TO: luneya, ENV: players/whisky/quest/room/ravine1
+PO: sys/player#6091, TP: orc, TO: lyric, ENV: room/orc_valley/orc_vall
+PO: sys/player#3636, TP: bear, TO: luneya, ENV: players/patience/tree_city1/oplum
+PO: sys/player#18809, TP: huge orc, TO: chantilly, ENV: room/orc_valley/valley10
+PO: sys/player#15650, TP: nun, TO: allsiante, ENV: players/whisky/guild/room/challenge
+PO: sys/player#1370, TP: Taliesin, TO: reneel, ENV: room/vill_road1
+PO: sys/player#4818, TP: crocodile, TO: tamuco, ENV: players/sylvyn/area/rooms/amazon/south/a012
+PO: sys/player#4951, TP: bront, TO: llllllisa, ENV: players/warlord/stone/stone18
+PO: sys/testp#24156, TP: The Sarlacc, TO: bonzai, ENV: players/redsexy/jedi/areas/island/deeppit
+PO: sys/player#1163, TP: malice, TO: malice, ENV: players/turbo/rooms/darkside/wurm/wurm5
+PO: sys/player#1230, TP: phyrexian dreadnought, TO: malice, ENV: players/turbo/rooms/elder/elder1
+PO: sys/player#9292, TP: matsumura, TO: matsumura, ENV: players/sauron/guild/room
+PO: sys/player#11518, TP: NO TP, TO: twist, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#24372, TP: garschmirak, TO: beukeboom, ENV: players/emerald/island/room/i18
+PO: sys/player#531, TP: bull, TO: fizgog, ENV: players/whisky/meadow/room/m5
+PO: sys/player#5652, TP: boar, TO: luneya, ENV: room/south/sforst18
+PO: sys/player#9729, TP: troll, TO: sugar, ENV: players/moonchild/trollslayer/troll1
+PO: sys/player#9729, TP: An undead golem, TO: sugar, ENV: players/pretzel/area/rooms/sewer11
+PO: sys/player#11404, TP: fox, TO: neon, ENV: players/emerald/country/8
+PO: sys/player#31610, TP: bruce lee, TO: tiamat, ENV: players/whisky/guild/room/c8
+PO: sys/player#39872, TP: fire demon, TO: lyric, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/player#40245, TP: lyric, TO: lyric, ENV: players/brainsprain/bis/rooms/tr-16
+PO: sys/player#40245, TP: fire demon, TO: lyric, ENV: players/redsexy/guild/rooms/fireroom
+PO: sys/testp#1846, TP: turbo, TO: zathras, ENV: players/turbo/workroom
+PO: sys/player#2261, TP: malice, TO: malice, ENV: players/tamina/castle/rooms/nw_tower3
+PO: sys/player#19712, TP: Arcades, TO: tetsuhara, ENV: players/turbo/rooms/elder/white/palace
+PO: sys/player#9671, TP: bull, TO: krysto, ENV: players/whisky/meadow/room/m5
+PO: sys/player#15462, TP: Jack the Ripper, TO: beukeboom, ENV: players/saffrin/area/pk/room/h18
+PO: sys/player#3510, TP: troll, TO: smelov, ENV: players/moonchild/trollslayer/troll3
+PO: sys/player#6918, TP: witch, TO: terminal, ENV: players/whisky/garden/room/roof
+PO: sys/player#11084, TP: Spider, TO: tukveto, ENV: players/mangla/rooms/newbie/new13
+PO: sys/player#11461, TP: wasp, TO: tukveto, ENV: players/figleaf/link/link5
+PO: sys/player#6087, TP: blackmajik, TO: blackmajik, ENV: players/redsexy/guild/rooms/roof
+PO: sys/player#1596, TP: cyhyraeth, TO: tukveto, ENV: players/saffrin/area/aine/room/for15
+PO: sys/player#3436, TP: borscht, TO: borscht, ENV: players/saffrin/area/aine/room/for13
+PO: sys/player#4436, TP: borscht, TO: borscht, ENV: players/sherman/hills/cave12
+PO: sys/player#6606, TP: balor, TO: borscht, ENV: players/sherman/hills/cave12
+PO: sys/testp#7859, TP: bobo, TO: fodder, ENV: players/nae/workroom
+PO: sys/player#6864, TP: Kosh Narenek, TO: cantus, ENV: players/turbo/rooms/elder/blue/blue_center

@@ -1,0 +1,4 @@
+players/bobo/krooms/wastelands/river1.c line 2:Cannot #include players/mangla/defs.h
+players/bobo/krooms/wastelands/river1.c line 26:Variable TP not declared !
+players/bobo/krooms/wastelands/river1.c line 31:Variable TP not declared !
+players/bobo/krooms/wastelands/river1.c line 36:Variable TP not declared !

@@ -1,0 +1,54 @@
+Quasimodo Tue Mar  9 17:24:41 1999 (room/pub2):
+smoke spliff reports bug  players/sargon/obj/spliff#8224
+
+Malefactor Tue Mar 23 12:47:42 1999 (room/vill_road2):
+Harry should take care of HIS/HER. Harry says: Why did you sell his cap? ... maybe difficult to fix, but would look better...
+
+Malefactor Tue Mar 23 13:11:40 1999 (room/slope):
+The guard in this room have halberd, but doesnt wield it. Never.
+
+Quasimodo Tue Mar 23 14:32:27 1999 (room/eastroad5):
+I can locate player, but don't see him in 'who' and cannot tell him anything. I have detect invis spell on and he is thief - so i think he's hidden. Maybe locate should not work in this case.
+
+
+Llllllisa Sat Apr  3 07:57:04 1999 (room/south/sislnd15):
+the room south of here with anica...the north door leads to a room one east of here
+
+Sargon Fri Apr  9 19:12:13 1999 (room/south/sshore2):
+exit to lake is taken out...desc should not say it is possible for you to dive...should it?
+
+Sargon Fri Apr  9 19:13:19 1999 (room/south/sshore6):
+here too
+
+Terminal Sun Apr 11 06:00:42 1999 (room/bank):
+bad argument 1 to restore_object() program room/std_bank.c
+
+Mangla Sun Apr 11 17:49:19 1999 (players/mangla/workroom):
+doorroom should give locked error message when trying to open the door and it is locked.
+
+Malice Sun Apr 11 17:57:37 1999 (players/emerald/perilous/fire/throne):
+this climb function seems to accept no argument, therefore i can type climb up a bugs ass and still climb the dias ...
+
+Malefactor Tue Apr 13 16:09:35 1999 (players/pretzel/area/rooms/sewer14):
+Some emotes of monsters looks strange... for example when i'm hidden and the ghouls keep grunting at me even without having an idea about my presence
+
+Malefactor Wed Apr 14 16:57:49 1999 (players/moonchild/haunter/farmbed):
+It's imposible to look in the safe, although command take all from safe works.
+
+Malefactor Wed Apr 14 18:39:24 1999 (players/brainsprain/bis/rooms/e-2):
+The noble have in description: noble woman .. but when i kill it, it says: killing him
+
+Nae Thu Apr 15 19:06:52 1999 (players/brainsprain/goldsun/7-islands/rooms/creta4):
+hmmm..... "There are three obvious exits: north, east and east"
+
+Nae Thu Apr 15 21:32:22 1999 (players/brainsprain/goldsun/7-islands/rooms/desert8):
+going east from here, i get a bug... failed to load file, desert7
+
+Paranoi Fri Apr 16 00:19:36 1999 (players/brainsprain/guild/hideout):
+i want to shout damned
+
+Sargon Fri Apr 16 02:27:44 1999 (players/brainsprain/goldsun/7-islands/rooms/desert4):
+Failed to load file. when falling from desert4
+
+Sargon Fri Apr 16 02:30:29 1999 (players/brainsprain/goldsun/7-islands/rooms/desert4):
+when going south...same bug as above

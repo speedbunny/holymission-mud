@@ -1,0 +1,15 @@
+Hi,
+
+Here are some remarks on your files. I only mentioned something the first time
+I noticed it. I think you can find any other occurences yourself ;-)
+I hope these remarks prove useful.         Uglymouth.
+
+entrance: in rooms there's no need to have ::reset(arg); unless you use clone_list.
+court_yard: don't put '.' in the descriptions of items. that's done automatically.
+     (would result in double ..)
+e_wing: tower exit in short_desc doesn't match enter exit in dest_dir
+e_wing: no items({}). Too bad, for there's lots to look at.
+wcorridor: typo in long_desc fould --> foul
+    tapestires (tapestries?) in items({}) is never mentioned before.
+store_room: typo long_desc uesless --> useless
+General impression: Great area. I very much like the long_descs.

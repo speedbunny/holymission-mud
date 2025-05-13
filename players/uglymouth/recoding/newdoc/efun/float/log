@@ -1,0 +1,20 @@
+EFUN: log
+
+SYNTAX:
+float log( x );
+  float x;
+
+DESCRIPTION:
+Calculates the natural logarithm of x. X must have a positive (>0) value.
+
+RETURN VALUE:
+The value of log( x ) is returned.
+
+SEE ALSO:
+exp
+
+EXAMPLE:
+float x;
+
+x = log( 2.7182818 );
+// x has now a value of (nearly) 1.

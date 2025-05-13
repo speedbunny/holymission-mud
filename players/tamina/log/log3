@@ -1,0 +1,18 @@
+new update, july 25 1994
+throne_room long_desc is incorrect when I come from east here...
+never use capitals in set_name of monsters! kill command won't work then.
+   (Retainers in throne room, but check all your monsters on it, please).
+pantry2 won't load... :-(
+is long_desc and spell_msgs for darkling prince ok?
+   (only \n's...)
+file for nw exit in throne_room doesn't exist (guest_room).
+ecourt2: clones skeletons only 1x per reboot! put has_cloned = 0; in
+   the reset function. Also I think you should decrease num_skel by 1
+   each time a skeletom is killed...
+   and put if(num_skels == 4)... before the for-loop.
+note skeleton sword: note that weight is related to wc (it's 4, not 3 ;).
+well3 doesn't exist (north exit from well2).
+Please be a bit careful with negative light factors. Remember that a lot of
+   guilds don't support light abilities, and torches are rather scarce.
+mole's hole crosses the well rooms (why so many empty lines in the roomcode?)
+wcourt3 typo in long_desc oather --> another

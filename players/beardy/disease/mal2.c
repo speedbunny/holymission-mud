@@ -1,0 +1,4 @@
+drop()
+{
+  return 1;
+}

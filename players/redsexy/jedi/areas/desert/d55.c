@@ -1,0 +1,7 @@
+inherit "/players/redsexy/jedi/areas/desert/moseisley";
+
+reset(arg) {
+   
+  if(!arg) setup("54#west#");
+}
+

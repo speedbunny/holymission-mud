@@ -1,0 +1,90 @@
+players/alex/area/df/mon2 Mon Mar 10 18:26:10 1997
+Typo Kryll
+"make out an opening"
+players/alex/area/df/mon2 Mon Mar 10 18:27:29 1997
+Typo Kryll
+last sentence - "Above you there is a hole you could climb up through."
+players/alex/area/df/mon2 Mon Mar 10 18:31:25 1997
+Typo Kryll
+pit desc - comma should be a period
+players/alex/area/df/mon3 Mon Mar 10 18:37:41 1997
+Typo Kryll
+need a period after hole
+players/alex/area/df/mon3 Mon Mar 10 18:37:53 1997
+Typo Kryll
+should be "an opening"
+players/alex/area/df/mon7 Mon Mar 10 18:38:05 1997
+Typo Kryll
+should be "an opening"
+players/alex/area/df/mon6 Mon Mar 10 20:12:55 1997
+Typo Kryll
+why is Last capitalized?
+players/alex/area/df/mon6 Mon Mar 10 20:15:27 1997
+Typo Kryll
+period after guard, not comma
+players/alex/area/df/mon6 Mon Mar 10 20:15:37 1997
+Typo Kryll
+before misspelled
+players/alex/area/df/mon6 Mon Mar 10 20:16:01 1997
+Typo Kryll
+comma after "before him,"
+players/alex/area/df/mon6 Mon Mar 10 20:16:38 1997
+Typo Kryll
+vigilant misspelled
+players/alex/area/df/mon6 Mon Mar 10 20:17:32 1997
+Typo Kryll
+Highlord was one word before, shouldn't it be now too?
+players/alex/area/df/mon6 Mon Mar 10 20:17:46 1997
+Typo Kryll
+inner sanctum is 2 words
+players/alex/area/df/mon6 Mon Mar 10 20:18:06 1997
+Typo Kryll
+ghost desc - elves misspelled
+players/alex/area/df/mon6 Mon Mar 10 20:19:18 1997
+Typo Kryll
+with ghost here and try east, then message needs to be changed .. "The guard grabs you to prevent you from entering. He then tries to separate your head from your body."
+players/alex/area/df/mon6 Mon Mar 10 20:20:30 1997
+Typo Kryll
+change the add_action east to rewriting the move statement
+players/alex/area/df/mon6 Mon Mar 10 20:20:58 1997
+Typo Kryll
+see /players/emerald/lakmir/anteroom.c to see what i mean about the move function
+players/alex/area/df/mon6 Mon Mar 10 20:22:46 1997
+Typo Kryll
+also the ghost says he tries to kill me but doesn't attack...might need to change it
+players/alex/area/df/mon6 Mon Mar 10 20:23:54 1997
+Typo Kryll
+without the ghost there, the typos when trying to go east are sanctum misspelled, comma needed after sanctum...period needed after "stops you."
+players/alex/area/df/mon5 Mon Mar 10 20:24:20 1997
+Typo Kryll
+really is mispelled
+players/alex/area/df/mon5 Mon Mar 10 20:24:32 1997
+Typo Kryll
+why is Last capitalized?
+players/alex/area/df/mon5 Mon Mar 10 20:24:46 1997
+Typo Kryll
+comma after guard should be a period
+players/alex/area/df/mon5 Mon Mar 10 20:24:56 1997
+Typo Kryll
+before misspelled
+players/alex/area/df/mon5 Mon Mar 10 20:25:18 1997
+Typo Kryll
+comma needed after "forgave him,"
+players/alex/area/df/mon5 Mon Mar 10 20:25:28 1997
+Typo Kryll
+vigilant misspelled
+players/alex/area/df/mon5 Mon Mar 10 20:25:38 1997
+Typo Kryll
+Highlord should be one word since it was previously
+players/alex/area/df/mon5 Mon Mar 10 20:26:46 1997
+Typo Kryll
+when trying to get the crown..."sees" needs no apostrophe...should be "pprotects it."
+players/alex/area/df/mon5 Mon Mar 10 20:28:00 1997
+Typo Kryll
+guard desc - incorporal misspelled
+players/alex/area/df/mon5 Mon Mar 10 20:29:37 1997
+Typo Kryll
+you have the 0 and 1 backwards on the returns here....ok...i will redo this room so you have another example
+players/alex/area/df/mon4 Mon Mar 10 20:47:56 1997
+Typo Kryll
+same prob here as the room 2 west from here

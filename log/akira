@@ -1,0 +1,50 @@
+players/akira/vag/armour/rags.c line 24:syntax error
+players/akira/area/vault5.c line 22:syntax error
+players/akira/vag/armour/x.c line 16:Unrecognized inheritance modifier qualifier
+players/akira/vag/armour/x.c line 16:Unrecognized inheritance modifier qualifier
+players/akira/vag/armour/x.c line 16:syntax error
+players/akira/vag/armour/x.c line 19:Undefined function start_shad
+players/akira/mobs/x.c line 49:Variable this_player90 not declared !
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 130:syntax error
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 130:syntax error
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 130:syntax error
+players/akira/mobs/x.c line 125:syntax error
+players/akira/mobs/x.c line 125:syntax error
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 131:Duplicate default
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 131:Duplicate default
+players/akira/mobs/x.c line 135:syntax error
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 131:Duplicate default
+players/akira/mobs/x.c line 138:Must return a value for a function declared: "int "
+players/akira/mobs/x.c line 126:Duplicate default
+players/akira/mobs/x.c line 131:Duplicate default
+players/akira/weapons/real2.c line 29:Variable shad not declared !
+players/akira/weapons/real2.c line 30:Variable shad not declared !
+players/akira/weapons/real2.c line 32:syntax error
+players/akira/weapons/real2.c line 34:syntax error
+players/akira/vag/armour/shadow.c line 15:syntax error
+players/akira/weapons/real2.c line 24:Variable ob not declared !
+players/akira/weapons/real2.c line 28:Missing type for argument
+players/akira/weapons/real2.c line 28:syntax error
+players/akira/weapons/real2.c line 28:Missing type for argument
+players/akira/weapons/real2.c line 28:syntax error
+players/akira/weapons/real2.c line 29:Undefined function query_auto_load
+players/akira/weapons/real2.c line 29:syntax error
+players/akira/weapons/real2.c line 34:syntax error
+players/akira/weapons/real2.c line 45:Variable str not declared !
+players/akira/weapons/real2.c line 45:Illegal LHS
+players/akira/weapons/real2.c line 45:syntax error
+players/akira/weapons/real2.c line 66:syntax error
+players/akira/weapons/real2.c line 66:syntax error
+players/akira/weapons/real2.c line 66:syntax error
+players/akira/weapons/real2.c line 61:syntax error
+players/akira/weapons/real2.c line 65:Too few arguments to clone_object
+players/akira/weapons/real2.c line 65:Illegal LHS
+players/akira/weapons/real2.c line 65:syntax error
+players/akira/weapons/real2.c line 78:Illegal LHS
+players/akira/weapons/real2.c line 78:syntax error

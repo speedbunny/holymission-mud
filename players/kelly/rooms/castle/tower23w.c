@@ -1,0 +1,13 @@
+inherit "room/room";
+ 
+reset(arg) {
+  if (arg) return;
+  set_light(1);
+  short_desc="An exhibition room";
+  long_desc="You're on the third floor in an exhibition room.\n";
+  dest_dir=({
+    "players/kelly/rooms/castle/tower23","east",
+   });
+/*  move_object(clone_object("players/kelly/monster/"),this_object()); */
+}
+

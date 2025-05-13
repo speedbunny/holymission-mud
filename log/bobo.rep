@@ -1,0 +1,26 @@
+Sun Feb 28 14:49:44 1999: players/bobo/krooms/mountains/stonepath3
+Tatsuo bugs: stonepath4, NEWLINE in string line 11
+Sun Feb 28 14:50:03 1999: players/bobo/krooms/mountains/stonepath3
+Tatsuo bugs: valley3n syntax error line 11
+Sun Feb 28 14:51:04 1999: players/bobo/krooms/mountains/stonepath3
+Tatsuo bugs: tower11.c in castle dir, newline line 11
+Sun Feb 28 14:51:12 1999: players/bobo/krooms/mountains/stonepath3
+Tatsuo bugs: tower21.c in castle dir, newline line 11
+Sun Feb 28 14:51:23 1999: players/bobo/krooms/mountains/stonepath3
+Tatsuo bugs: tower24.c in castle dir, newline line 12
+Sun Feb 28 14:51:49 1999: players/bobo/krooms/mountains/stonepath3
+Tatsuo bugs: cell2.c in caslte dir, line 35 syntax error
+Sun Feb 28 14:52:47 1999: players/bobo/krooms/mythwood/mythpath
+Tatsuo bugs: faun_druid.c line 18, typo obh, should be ob i believe
+Sun Feb 28 14:53:04 1999: players/bobo/krooms/mythwood/mythpath
+Tatsuo bugs: faun_shop.c line 82 newline in string
+Sun Feb 28 14:53:45 1999: players/bobo/krooms/wastelands/cave1
+Tatsuo bugs: cliff1.c TP not delcared
+Sun Feb 28 14:54:02 1999: players/bobo/krooms/wastelands/cave1
+Tatsuo bugs: dolmen1.c line 36 syntax error
+Sun Feb 28 14:54:21 1999: players/bobo/krooms/wastelands/cave1
+Tatsuo bugs: grave_enter.c TP not declared
+Sun Feb 28 14:54:55 1999: players/bobo/krooms/wastelands/cave1
+Tatsuo bugs: river1.c and river3.c TP not declred, and problem inheriting mangla/def.h
+Thu Mar 25 19:38:22 1999: players/bobo/krooms/vill/road3
+Malice typos: norheast = northeast in description?

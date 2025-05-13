@@ -1,0 +1,54 @@
+
+Redsexy Sun Mar 28 17:02:11 1999 (players/raindell/areas/IWheel/approach/a1):
+remove blank lines between item descs
+
+Redsexy Sun Mar 28 17:07:09 1999 (players/raindell/areas/IWheel/approach/a2):
+make description of tree fit on one line
+
+Redsexy Sun Mar 28 17:30:02 1999 (players/raindell/areas/IWheel/approach/a6):
+rewrite room so here isn't used twice
+
+Redsexy Sun Mar 28 17:30:40 1999 (players/raindell/areas/IWheel/approach/a6):
+look at use of comma in last sentence
+
+Redsexy Sun Mar 28 17:33:42 1999 (players/raindell/areas/IWheel/approach/a7):
+look at use of comma in waters item description
+
+Redsexy Sun Mar 28 18:11:44 1999 (players/raindell/areas/IWheel/approach/a10):
+look at indentation on code
+
+Sugar Mon Mar 29 13:35:41 1999 (players/redsexy/guild/rooms/powershop):
+Hey if the prism is here it should be lookable at
+
+Ryoka Tue Mar 30 05:29:59 1999 (room/jetty2):
+,,,.....
+
+Cantus Wed Mar 31 17:53:51 1999 (players/turbo/rooms/elder/elder3):
+set_alias(bracers) and set_alt_name(bracer) for /p/t/armor/bracers
+
+Cantus Wed Mar 31 18:47:04 1999 (players/saffrin/area/hamlet/room/g7):
+fix long desc of pike
+
+Cantus Wed Apr  7 06:36:07 1999 (players/turbo/rooms/darkside/dark1):
+marcus should wear his cloak
+
+Cantus Wed Apr  7 08:15:49 1999 (players/turbo/rooms/elder/elder6):
+make jade necklace weight 0
+
+Redsexy Fri Apr  9 03:40:13 1999 (players/turbo/workroom):
+look at formatting on set_long
+
+Cantus Mon Apr 12 18:08:33 1999 (players/turbo/rooms/elder/blue/blue_center):
+blue5, enter center
+
+Cantus Mon Apr 12 18:20:16 1999 (players/turbo/rooms/elder/blue/blue_center):
+black1, revise spacing for search message
+
+Redsexy Mon Apr 12 18:58:52 1999 (players/akira/area/mount):
+my first note is that you will not be able to link onto Darastor's open 9as is, as there is already n s e and w exits.  maybe ne from open9 and sw from mount?
+
+Redsexy Mon Apr 12 19:39:10 1999 (players/akira/area/front):
+major probs with the descs as a fullstop is added automatically so no need for fullstops.  I will work on these as much as I can.
+
+Redsexy Mon Apr 12 19:39:30 1999 (players/akira/area/front):
+but I may need you to help me as it will be a BIG job.

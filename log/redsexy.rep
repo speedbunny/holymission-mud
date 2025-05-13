@@ -1,0 +1,3 @@
+Sat Mar 20 05:15:02 1999: players/redsexy/jedi/areas/island/other/sandpit
+Raindell bugs: In this room (sandpit) giving the command 'dig sand' gives the following error -> Program : players/redsexy/jedi/areas/island/inherit.c || object : players/redsexy/jedi/areas/island/other/sandpit || line : 45
+Malice typos: thrid line made out of wood  set

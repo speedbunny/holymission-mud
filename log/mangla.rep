@@ -1,0 +1,2 @@
+Sun Apr 11 17:49:19 1999: players/mangla/workroom
+Mangla bugs: doorroom should give locked error message when trying to open the door and it is locked.

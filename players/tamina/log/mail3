@@ -1,0 +1,118 @@
+From: goldwolf
+To: tamina
+ Re:   The bomb
+Date: Aug 25
+
+Hi,
+
+I looked at the bomb, and I detected why it doesn't work. Along with
+some other bugs/suggestions for improvement. Here it comes:
+
+In long the second write() never gets called. It's either 'lit' or not, nothing else.
+To prevent the container checks and extra code for such cases, you could add:
+prevent_insert() { return 1; } Then it can't be put in containers.
+Otherwise ENV may be the container instead of player, so tell_object and
+hit_player never do what they are intended to do.
+_light function can be called repeatedly, even if already lit.
+in the room, only the first player gets hit, because the destruct(TO); is
+put within the for loop. First execute the loop, then destruct. That should
+solve it :-)
+Please be a bit careful with shouts. Lots of shouting objects are annoying.
+I hope you can do something with this. And thanks for rm'in the .SECURE.
+See you,
+
+Goldwolf
+
+From: goldwolf
+To: tamina
+ Re:   Bomb
+Date: Aug 26
+
+Hi,
+
+I'll have a check on plans for removal of Ted's place.
+With your area coming I'll put in a vote for
+keeping it. Maybe it's just some little changes to make it ok for ppl
+again (i.e. removal of quest part of the area only).
+I'll keep you up to date on any decisions.
+See you around,
+
+Goldwolf
+
+From: goldwolf
+To: tamina
+Subj: castle
+
+Date: Aug 31
+
+Hi,
+
+Well, I'm almost through now. I asked Warlord and Airborne
+to check out some parts as well (area must be approved by 2
+members of the AAC). Since we can't do much anyway while we're
+still at level 33 
+I suppose things will be settled very quickly now. It's already
+more or less agreed upon that it's definitely worth the promotion
+once all the bugs are out and some values adapted, if need be.
+See you around,
+
+Goldwolf
+
+From: beelzebub
+To: tamina
+Subj: HI!
+
+Date: Sep  9
+
+hey you!
+how have you been? 
+ive been reading your messages on the thieves board :)
+hope to see you soon,
+Beel
+
+From: uglymouth
+To: tamina
+ Re:   Bugs.log & others
+Date: Aug 11
+
+Hi,
+
+Thanks for the mail.
+A few questions and remarks on what you wrote:
+- Light: You give a good explanation, and I figured that was the reason
+    behind it. I wanted to point out the difficulty from a player's point
+    of view. I suppose the good light sources solve that problem. But I
+    had not yet encountered any, hence the remark.
+- Quest: I knew there was a quest to go with it, and thanks for the
+    explanation. More specifically my question was: is the quest already
+    implemented in the code? Or are you going to open the area first, and
+    finish and install the quest at a later date?
+
+- Promotion: When your area is opened, you will be promoted to level 33.
+    Yours is a big area and of good quality, but that in itself is no
+    ground for further promotion. Quality is something we expect people to make.
+    Also, promotions are never more than one step at a time. After level
+    33 (full wizard), there comes more responsibility and work with the
+    job. A short survey of the levels beyond 33: Senior (35, read access
+    in secured dirs of lower level wizards), Lord (40, read and write
+    access in all lower level wizard dirs, and even in non-secured dirs
+    of higher level wizards), Arch (50, read and write access in the
+    entire mudlib). Retired (36) is an honorary level for arches (and
+    maybe lords, I'm not sure) that do no longer wish to be active at
+    such a high level. Levels 33 - 40 all have the same wizard commands
+    and abilities, just read/write access differs. In the time you have
+    been wiz now, you will have noticed that promotions beyond level 33
+    are rather scarce events. The administration is rather weary of lever
+    (make that level) greed. Levels can be gained by working hard for the
+    general good of HM (debugging/upgrading code, help with player bugs,
+    show responsibility). If the administration thinks you've proven
+    your merit for HM, then that's reason for promotion. Nothing else.
+    Maybe it sounds hard, but strictness at this point has been proven
+    necessary at multiple occasions in the past. In particular write access
+    abuse can prove to be  a very bothersome matter. I hope this explains
+    what you wanted to know and can expect from the time you reach lvl 33.
+
+See you around,
+
+				Viking Lord Uglymouth
+

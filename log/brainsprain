@@ -1,0 +1,172 @@
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 54:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 2:Cannot #include /players/brainsprain/golsun/7-islandsisdef.h
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 54:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 2:Cannot #include /players/brainsprain/golsun/7-islandsisdef.h
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 54:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 2:Cannot #include /players/brainsprain/golsun/7-islands/isdef.h
+players/brainsprain/goldsun/7-islands/rooms/EgenCoast.c line 54:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 6:Variable clone_list not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 9:Variable dest_dir not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 14:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 6:Variable clone_list not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 9:Variable dest_dir not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 14:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 6:Variable clone_list not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 9:Variable dest_dir not declared !
+players/brainsprain/goldsun/7-islands/rooms/scoast1.c line 14:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/sgenCoast.c line 1:Missing leading " in #include
+players/brainsprain/goldsun/7-islands/rooms/sgenCoast.c line 5:Variable short_desc not declared !
+players/brainsprain/goldsun/7-islands/rooms/sgenCoast.c line 6:Variable long_desc not declared !
+players/brainsprain/goldsun/7-islands/rooms/sgenCoast.c line 12:Variable smell not declared !
+players/brainsprain/goldsun/7-islands/rooms/sgenCoast.c line 13:Variable property not declared !
+players/brainsprain/goldsun/7-islands/rooms/sgenCoast.c line 14:Variable items not declared !
+players/brainsprain/goldsun/7-islands/monsters/crayfish.c line 24:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/crayfish.c line 24:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/beaver.c line 21:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/beaver.c line 21:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/cermor.c line 30:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/cermor.c line 31:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/cermor.c line 4:Redefinition of #define TO
+players/brainsprain/goldsun/7-islands/monsters/duckling.c line 28:Variable im not declared !
+players/brainsprain/goldsun/7-islands/monsters/fox.c line 7:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/ice_bear.c line 22:Undefined function add_stuff
+players/brainsprain/goldsun/7-islands/monsters/ice_bear.c line 23:Undefined function add_stuff
+players/brainsprain/goldsun/7-islands/monsters/lobster.c line 25:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/native.c line 8:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/native.c line 9:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/native.c line 10:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/native.c line 11:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/native.c line 12:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/native.c line 13:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/wizard.c line 7:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/monsters/wizard.c line 8:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 108:syntax error
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 110:Illegal LHS
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 110:Illegal LHS
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 113:syntax error
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 117:Illegal LHS
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 117:Illegal LHS
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 38:syntax error
+players/brainsprain/goldsun/7-islands/rooms/pub_shop.c line 38:syntax error
+players/brainsprain/goldsun/7-islands/rooms/tcoast1.c line 5:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/tcoast1.c line 7:Variable long_desc not declared !
+players/brainsprain/goldsun/7-islands/rooms/tcoast1.c line 12:Variable items not declared !
+players/brainsprain/goldsun/7-islands/rooms/tcoast1.c line 14:Variable dest_dir not declared !
+players/brainsprain/goldsun/7-islands/rooms/tcoast1.c line 22:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/rcoast1.c line 6:Variable clone_list not declared !
+players/brainsprain/goldsun/7-islands/rooms/rcoast1.c line 9:Variable dest_dir not declared !
+players/brainsprain/goldsun/7-islands/rooms/rcoast1.c line 15:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/rcoast1.c line 6:Variable clone_list not declared !
+players/brainsprain/goldsun/7-islands/rooms/rcoast1.c line 9:Variable dest_dir not declared !
+players/brainsprain/goldsun/7-islands/rooms/rcoast1.c line 15:function not defined by inheritance as specified
+players/brainsprain/goldsun/7-islands/rooms/rgenCoast.c line 53:Variable ii not declared !
+players/brainsprain/goldsun/7-islands/rooms/ridge9.c line 22:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge9.c line 22:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge9.c line 22:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge9.c line 22:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge10.c line 20:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge9.c line 22:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge8.c line 19:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge7.c line 21:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge6.c line 22:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge5.c line 20:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge4.c line 19:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge3.c line 20:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge2.c line 20:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ridge1.c line 18:syntax error
+players/brainsprain/goldsun/7-islands/rooms/ecoast10.c line 13:syntax error
+players/brainsprain/spiral/rooms/room103.c line 2:Cannot #include /players/aryk/spidef.h
+players/brainsprain/spiral/rooms/room103.c line 29:Variable sr not declared !
+players/brainsprain/spiral/rooms/room103.c line 30:Variable sr not declared !
+players/brainsprain/spiral/rooms/room103.c line 16:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room103.c line 17:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room105.c line 5:syntax error
+players/brainsprain/spiral/rooms/room105.c line 10:Illegal LHS
+players/brainsprain/spiral/rooms/room105.c line 19:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room105.c line 20:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room105.c line 18:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room105.c line 19:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room202.c line 11:syntax error
+players/brainsprain/spiral/rooms/room202.c line 15:Illegal LHS
+players/brainsprain/spiral/rooms/room202.c line 11:syntax error
+players/brainsprain/spiral/rooms/room202.c line 15:Illegal LHS
+players/brainsprain/spiral/items/rusty_dagger.c line 22:syntax error
+players/brainsprain/spiral/items/rusty_dagger.c line 22:syntax error
+players/brainsprain/spiral/rooms/room204.c line 13:Variable f2 not declared !
+players/brainsprain/spiral/rooms/room204.c line 14:Variable f2 not declared !
+players/brainsprain/spiral/rooms/room204.c line 13:Variable f2 not declared !
+players/brainsprain/spiral/rooms/room204.c line 14:Variable f2 not declared !
+players/brainsprain/spiral/items/rusty_dagger.c line 22:syntax error
+players/brainsprain/spiral/items/rusty_dagger.c line 22:syntax error
+players/brainsprain/spiral/items/rusty_dagger.c line 22:syntax error
+players/brainsprain/spiral/items/rusty_dagger.c line 25:Newline in string
+players/brainsprain/spiral/items/rusty_dagger.c line 26:Newline in string
+players/brainsprain/spiral/items/rusty_dagger.c line 33:syntax error
+players/brainsprain/spiral/items/rusty_dagger.c line 32:syntax error
+players/brainsprain/spiral/npc/goblin_commander.c line 22:syntax error
+players/brainsprain/spiral/rooms/room206.c line 29:Undefined function replace_string
+players/brainsprain/spiral/rooms/room210.c line 4:Bad initializer type
+players/brainsprain/spiral/rooms/room210.c line 4:Missing type
+players/brainsprain/spiral/rooms/room210.c line 8:Bad initializer type
+players/brainsprain/spiral/rooms/room210.c line 8:Missing type
+players/brainsprain/spiral/rooms/room210.c line 9:syntax error
+players/brainsprain/spiral/rooms/room212.c line 12:Variable found not declared !
+players/brainsprain/spiral/rooms/room212.c line 15:Variable f1 not declared !
+players/brainsprain/spiral/rooms/room212.c line 17:Variable found not declared !
+players/brainsprain/spiral/rooms/room212.c line 20:syntax error
+players/brainsprain/spiral/rooms/room212.c line 25:syntax error
+players/brainsprain/spiral/rooms/room212.c line 21:syntax error
+players/brainsprain/spiral/rooms/room212.c line 26:syntax error
+players/brainsprain/spiral/rooms/room213.c line 7:Newline in string
+players/brainsprain/spiral/rooms/room213.c line 8:Newline in string
+players/brainsprain/spiral/rooms/room213.c line 12:syntax error
+players/brainsprain/spiral/rooms/room213.c line 8:Newline in string
+players/brainsprain/spiral/rooms/room213.c line 12:syntax error
+players/brainsprain/spiral/rooms/room305.c line 24:syntax error
+players/brainsprain/spiral/npc/goblin_mystic.c line 26:syntax error
+players/brainsprain/spiral/rooms/room308.c line 14:Variable f3 not declared !
+players/brainsprain/spiral/rooms/room308.c line 15:Variable f3 not declared !
+players/brainsprain/spiral/rooms/room309.c line 4:Bad initializer type
+players/brainsprain/spiral/rooms/room309.c line 4:Missing type
+players/brainsprain/spiral/rooms/room309.c line 8:Bad initializer type
+players/brainsprain/spiral/rooms/room309.c line 8:Missing type
+players/brainsprain/spiral/rooms/room309.c line 9:syntax error
+players/brainsprain/spiral/rooms/room312.c line 4:Missing type
+players/brainsprain/spiral/rooms/room312.c line 9:Missing type
+players/brainsprain/spiral/rooms/room312.c line 10:syntax error
+players/brainsprain/spiral/rooms/room313.c line 13:Variable f3 not declared !
+players/brainsprain/spiral/rooms/room313.c line 14:Variable f4 not declared !
+players/brainsprain/spiral/rooms/room402.c line 8:Newline in string
+players/brainsprain/spiral/rooms/room402.c line 9:Newline in string
+players/brainsprain/spiral/rooms/room402.c line 15:Variable f4 not declared !
+players/brainsprain/spiral/rooms/room402.c line 16:Variable f4 not declared !
+players/brainsprain/spiral/rooms/room402.c line 25:syntax error
+players/brainsprain/spiral/rooms/room407.c line 15:Variable it not declared !
+players/brainsprain/spiral/rooms/room407.c line 15:Variable ii not declared !
+players/brainsprain/spiral/rooms/room407.c line 17:syntax error
+players/brainsprain/spiral/rooms/room407.c line 18:Illegal LHS
+players/brainsprain/spiral/items/torch.c line 1:Illegal character (hex 2e) '.'
+players/brainsprain/spiral/items/torch.c line 1:syntax error
+players/brainsprain/spiral/rooms/room412.c line 5:Variable fighter not declared !
+players/brainsprain/spiral/rooms/room506.c line 11:Variable found not declared !
+players/brainsprain/spiral/rooms/room506.c line 16:Variable found not declared !
+players/brainsprain/spiral/rooms/room506.c line 19:Variable found not declared !
+players/brainsprain/spiral/rooms/room511.c line 13:Newline in string
+players/brainsprain/spiral/rooms/room511.c line 14:syntax error
+players/brainsprain/spiral/rooms/room511.c line 15:syntax error
+players/brainsprain/spiral/rooms/room511.c line 16:syntax error
+players/brainsprain/spiral/rooms/room511.c line 21:Illegal LHS
+players/brainsprain/spiral/rooms/room511.c line 21:syntax error
+players/brainsprain/spiral/rooms/room703.c line 15:Variable it not declared !
+players/brainsprain/spiral/npc/orc_warrior.c line 3:function not defined by inheritance as specified
+players/brainsprain/spiral/npc/orc_warrior.c line 5:Undefined function set_name
+players/brainsprain/spiral/npc/orc_warrior.c line 6:Undefined function set_race
+players/brainsprain/spiral/npc/orc_warrior.c line 7:Undefined function set_gender
+players/brainsprain/spiral/npc/orc_warrior.c line 8:Undefined function set_alias
+players/brainsprain/spiral/npc/orc_warrior.c line 9:Undefined function set_short
+players/brainsprain/spiral/npc/orc_warrior.c line 21:syntax error
+players/brainsprain/spiral/rooms/room803.c line 7:Newline in string
+players/brainsprain/spiral/rooms/room803.c line 16:syntax error
+players/brainsprain/spiral/npc/troll_axe_thrower.c line 21:syntax error
+players/brainsprain/spiral/npc/troll_axe_thrower.c line 21:Illegal character (hex 5c) '\'
+players/brainsprain/spiral/npc/troll_axe_thrower.c line 21:Newline in string

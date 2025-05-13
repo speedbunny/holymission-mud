@@ -1,0 +1,55 @@
+Hi,
+
+Here are some remarks on your files. I only mentioned something the first time
+I noticed it. I think you can find any other occurences yourself ;-)
+I hope these remarks prove useful.         Uglymouth.
+
+entrance: in rooms there's no need to have ::reset(arg); unless you use clone_list.
+court_yard: don't put '.' in the descriptions of items. that's done automatically.
+     (would result in double ..)
+e_wing: tower exit in short_desc doesn't match enter exit in dest_dir
+e_wing: no items({}). Too bad, for there's lots to look at.
+wcorridor: typo in long_desc fould --> foul
+    tapestires (tapestries?) in items({}) is never mentioned before.
+store_room: typo long_desc uesless --> useless
+General impression: Great area. I very much like the long_descs.
+
+log date june 3rd 1994:
+Don't use ::reset(arg); in rooms unless you are using replace_program().
+Remind me to explain you about that efun _soon_. It's very useful.
+I think filter_live is rather ugly code, but if you figured it out
+yourself, you did good thinking. Use present efun instead though!
+if(!ob=present("ghoul") && !living(ob)) clone & move ghoul;
+barracks_d.c is bugged: syntax error in line 54.
+ne_tower1: I like the idea for the long_desc, but of course it doesn't
+hold true for people that walk downstairs...
+store_room: seems like MAKE_KEY is ok now :-)
+  but use transfer instead of move_object, to prevent weight bugs.
+nw_tower: use switch instead of if() statements:
+swritch(str) {
+  case "table": write(); say();
+  break;
+  same for all others; break;
+  default: write("You can't search there.\n");
+   break;
+}
+also: out exit doesn't correspond to north exit that brings you here.
+nw_towera: the msgout in move_player is incorrect. this msg always gets
+  appended to '<name> leaves', so would be here: 'x leaves enters the...'
+guards in nw_tower2: you can code both sword and monster in the room.
+passage: long desc is only valid at first entrance. once you're in and just
+look around you shouldn't get the SLAMM! To correct this, put the S
+  the SLAMM! msg, that is, in a write() within the init() function.
+passage2: just some code-technical remarks: you don't need a for loop if
+   you only clone 1 object. also, the int i; could have been declared a
+   local variable within the reset() function.
+shadow demon: don't block individual guild abilities!! guild powers are
+considered to be balanced (or will be soon). Doing this would put some guilds
+in a disadvantageous position.
+same goes for dust demon
+reception: you have a layout problem here. when I try to map the area,
+   the ne and nw exits overlap with ne_ and nw_towers. Maybe you should
+   extend the e_ and w_wing a bit...
+filter_live: it's buggy as well. doesn't work if there's a player in the
+   room at the time or reset. Just use present efun.
+juntion overlaps with both kitchen and ne_tower when mapping.

@@ -1,0 +1,212 @@
+From: mangla
+To: tamina
+Subj: bboots
+
+Date: Aug  9
+
+Wish I would have known you were working on the bboots.
+I personally recoded the ones in helenettes dir and would
+have been happy to change them to fit what you needed.
+That was about the 3 version of them I had made. Would
+have saved you alot of time and effort.  ;)
+
+Besides they could be written much more efficiently anyway.
+
+-Mangla
+
+From: uglymouth
+To: tamina
+ Re:   Area
+Date: Aug  9
+
+Hi,
+
+Thanks for the mail. No need for apologies, because you are
+entirely correct. I promised you I would have finished it
+last week, but due to personal circumstances RL I
+haven't been able to do so. Sorry, I should have mailed
+you about the delay. Anyway, I'll try to get it over with
+this week. I hope that's not too long a period for you to
+wait more. The area is very good, and I don't foresee any
+probs in approving it, once you've gone over the bugreports
+I'll be sending you this week ;-).
+See you around,
+
+			Viking Lord Uglymouth
+
+From: uglymouth
+To: tamina
+Subj: new logs on your area
+
+Date: Aug  9
+
+Hi,
+
+I've completed another part of the castle and enjoyed it
+a lot. I have logged some new messages in /p/u/bugs/tamina.log
+(appended to the old ones). I hope you can do something with
+them again. A question: does the area contain a quest? or only
+the basis on which the quest will be build at a later date?
+Because if there's a quest, I can check for that at the same
+time then. Maybe I've asked it before, but I can't remember...
+See you around,
+
+			Viking Lord Uglymouth
+
+From: tamina
+To: uglymouth
+Subj: Bugs.log & others
+
+Cc: tamina
+Date: Aug 10
+
+
+ -=- LIGHT
+The reason that some areas are so dark is because of the influence of
+the Darkling Lord in the castle.  He has minions places all over the
+place which has made the castle very darker ... darker than normal.
+Furthermore, there are a _small_ number of items that as a consequence
+have large light factors [ set_light(3) ] for players.  This will of
+course supplement the players' own light sources.
+ 
+ -=- NAMES
+Some of the set_names() of the monsters are specifically set with
+capitals in them, for the effect that it gains in the inventory of the
+room that they are set in.  I have of course included set_alias() and
+set_alt_name() so that the monster can easily be identified.  I do not
+forseee any difficulties with the monsters I have done this for.
+ 
+ -=- QUEST
+There is a quest associated with the area.  It will hopefully be titled:
+Quest for the Holy Grail.
+The plot behind this is that the Darkling Lord (with the aid of Morgan le
+Fey) has stolen the fabulous religious artefact and ikon from Arthur
+and his knights.  Arthur had set out to recover this, after one of his
+knights returned without it.  Now, Arthur has not returned, which sets
+the base for the quest.  You have to in some way recover both Arthur and
+the Holy Grail.
+The only way to succeed is to get through the Elemental Planes, then
+find the Darkling Lord himself, kill him, get the Grail, find Arthur,
+show the Grail to Arthur, and quest is complete.
+Killing will be quite -> very difficult.
+"Keys" will be required to venture safely on the Elemental Planes, and
+to actually get to the Darkling Lord's domain itself.
+ 
+ -=- GUILD POWERS
+I blocked some guild powers mistakenly thinking I had done all that
+was required to block that ability.  It did not occur to me that other
+guilds had abilities of the same nature.  I have therefore added other
+blocks to this effect.
+ 
+ -=- Finally
+If you do approve the area, and quest, will that mean I can be promoted
+to level 36, or Retired?  I ask this, because it will have been two
+difficult things that I have coded for the Mud.  Just a query as to
+the position I will be in.
+If not, what does it take to be promoted after this, to either level 36
+[Rtd], or level 40 [Lord] ?  Unlike some, I am not content to simply stay
+at the same level for ages and ages   ;-)
+ 
+Hope to hear from you soon.
+ 
+                Elemental Tamina
+                        xxx
+ 
+
+From: wesley
+To: tamina
+Subj: The problem
+
+Date: Aug  8
+
+I think that you've already read my notes concerning you and Lamorack and 
+myself so I can't be bothered to repeat it after doing so for three times
+running (and each time having my notes taken off). It's ancient history to
+me but I'm leaving this note because you invited me to. Suffice it to say, that the matter is long past so let's let it rest. Amen.
+
+From: airborne
+To: tamina
+ Re:   Area
+Date: Jul 16
+
+I promise to take a look at it kiddo, especially since I have to for it to
+be approved and put into the game and all. :)
+
+As soon as I can, I'll do it. But you should still get your mentor
+to look through it.
+
+See you soon kiddo.
+
+Willie
+
+
+From: uglymouth
+To: tamina
+ Re:   Area
+Date: Jul 18
+
+Hi Tamina,
+
+Thanks for the mail.
+I'll be happy to look at your code, and curious to see what
+it has become. I'll do it in the course of the next two weeks.
+Since I have a job now (which in itself is a good thing), I do
+not have much time for spending hours at a time mudding (which
+is not such a good thing), but I'll let you know my findings.
+I'll keep a log again, similar to last time, and I'll tell you
+when it contains new info. So you can change things without
+having to wait for me to finish the entire area.
+See you around,
+
+			Viking Lord Uglymouth
+
+From: haplo
+To: tamina
+Subj: *grin*
+
+Cc: tatsuo
+Date: Jul 28
+
+Hello! Well to start off i have been on vacation so just got your note also
+i have no problem with your looking at my stuff(feel free to use anything you 
+want). As to your questions you are speculating with out knowing what we are
+doing. I know you get pissed when i say that but... it is true. First off
+the katana files in my dirs are for my own personal use and learning NOT
+for the guild. I am trying to learn and understand pat's code. Secondly as
+for the size of the guild since when is there a limit on the rooms. Our guild
+halls are very involved and neat(sorry slang again neat= fun to roam in).
+Our guilds make it enjoyable for people to explore and discover stuff we
+have put in many unique and interesting things in our guild sorta like
+minnie quests and stuff. As for the sauna again you try to compare guilds
+why i do not know but the samurai can vanish to the guild but they cannot
+go back to the previous spot so it is in effect totally different from the staff
+which will let a mage heal anywhere and for a time healed you while you had a
+weapon wielded. Maybe you notice the difference? 
+Thirdly AND I WANT TO BE VERY CLEAR ON THIS!!!! Iam getting very pissed off 
+about people claiming we copied the ninja guild. The only thing from the ninjas is
+the shops because they are the only shops which would do what we wanted them to
+and pat had coded a special standard object for those shops! As for the rooms 
+we that is tat and i have been priganal in our design and actions
+the base style is pat's and whisky because we like they style and they taught us!
+We put alot of effort and the admin supports our work and ideas and loves our originality
+This is just a quick answer to your statement(not questions) which were made with out facts!!!!
+And the weapons were coded by exos and have yet to be downloaded!!!
+
+                       Sincerely,
+
+                        Haplo and Tatsuo
+
+From: dancer
+To: tamina
+ Re:   Re: Guild Master
+Cc: home
+Date: Jun 16
+
+Further to my decision of yesterday, I will be leaving the mages guild as
+the guild master as I will be opening up my new guild... 
+
+    Sorry about that
+
+
+       Dancer
+

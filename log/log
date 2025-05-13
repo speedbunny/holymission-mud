@@ -1,0 +1,6 @@
+secure/setpass.c line 5:Cannot #include /players/mangla/def.h
+secure/setpass.c line 12:Variable TP not declared !
+secure/setpass.c line 12:syntax error
+secure/setpass.c line 19:Illegal LHS
+secure/setpass.c line 19:syntax error
+secure/setpass.c line 36:Illegal LHS

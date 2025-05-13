@@ -1,0 +1,14 @@
+Tue Mar  2 21:51:36 1999: players/padrone/inside/main_hall
+Zytok bugs: Bad argument 1 to call_other() program: players/padrone/inside/cons.c object : players/padrone/inside/cons line   : 616
+Mon Mar  8 05:06:51 1999: players/padrone/inside/waitingroom
+Raindell bugs: Possible bug here, in Padrone's Castle, Chaosdaemon quest.  The south door to the tower refuses to open, even with the crystal key in hand, so one can go no further than this point on the quest.
+Wed Mar 17 17:28:47 1999: players/padrone/outside/crossing
+Malefactor bugs: Sir obliterator is not a man. Should be, don't he?
+Wed Mar 17 17:29:43 1999: players/padrone/outside/path3
+Malefactor bugs: Mathilda should be a woman.. but it's IT.
+Tue Mar 23 20:22:31 1999: players/padrone/outside/crossing
+Malefactor bugs: When I use DROP ALL, I cannot carry anything beacuse It's too heavy.
+Wed Apr  7 17:58:26 1999: players/padrone/inside/elizas_office
+Malefactor bugs: when i enter some of those rooms, it says: It's pitch black. When I type LOOK, I can see ... i have 3 torches lit...
+Wed Apr  7 18:04:29 1999: players/padrone/inside/big_under
+Malefactor bugs: It says that there are two obvious exits, South and down, but command EXITS says there's no exit here
