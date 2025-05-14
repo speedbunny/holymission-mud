@@ -9,7 +9,7 @@ This repository contains the preserved and restored codebase of *Holy Mission MU
 
 - Custom weapon and monster definitions (`weapon2.c`, `monster.old.4-21-96`)
 - Dynamic object tracking, mail reader, and XP exploration hooks
-- Emotion system: `soul.sec`, `soul.old`, and `emotions.c` variants (if recovered)
+- Emotion system: `soul.sec`, `soul.old`, and `feelings.c`
 - Prototypes of modern alignment logic, hard-coded in LPC/C hybrids
 - Recovered artifacts include: `infra.c`, `trace.c`, `catch_talk.orc.c`, `boardnew.c`
 
