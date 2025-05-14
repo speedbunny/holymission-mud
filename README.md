@@ -22,7 +22,7 @@ This repo includes:
 
 ## Restoration Note
 
-> *“Room descriptions are sacred. Everything else can burn and regrow.”*
+> *Redsexy - “Room descriptions are sacred. Everything else can burn and regrow.”*
 
 More commentary and original lore to follow as archival continues. ASCII art and original login screen will be restored in a future commit.
 
